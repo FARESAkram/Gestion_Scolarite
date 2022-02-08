@@ -1,0 +1,3053 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<note class="GINF2">
+    <modules>
+        <module code="GINF31">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>0.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF32">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF33">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>18.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF34">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>18.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>1.5</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF35">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>1.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF36">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>19.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>20.0</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>20.0</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>0.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>20.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>0.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF41">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>18.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>19.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF42">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF43">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>15.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>2.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>12.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF44">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>6.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>16.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF45">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>18.5</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>5.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>14.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>13.0</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>18.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>13.5</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>4.0</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+            </students>
+        </module>
+        <module code="GINF46">
+            <students>
+                <student CNE="VKAG1DP">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>AGNAOU</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="D54TZFP">
+                    <lastName>BADR</lastName>
+                    <firstName>AL ACHKAR</firstName>
+                    <moyenne>5.5</moyenne>
+                </student>
+                <student CNE="JFVHI0B">
+                    <lastName>ASMAE</lastName>
+                    <firstName>AMARA</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="V40N4FJ">
+                    <lastName>SAMI</lastName>
+                    <firstName>AOUAD</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="51T9Z6O">
+                    <lastName>RIHAB</lastName>
+                    <firstName>BAHID</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="XCR2UKS">
+                    <lastName>CHEICKNA</lastName>
+                    <firstName>BARRO</firstName>
+                    <moyenne>2.5</moyenne>
+                </student>
+                <student CNE="9BOJ3LK">
+                    <lastName>NOUHAILA</lastName>
+                    <firstName>BEN TARKI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="N05RC58">
+                    <lastName>SALAHEDDINE</lastName>
+                    <firstName>BENKHANOUS</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="FOIMNZT">
+                    <lastName>CHAYMAE</lastName>
+                    <firstName>BENTALEB</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="XRZYRAB">
+                    <lastName>MOHAMED OUSSAMA</lastName>
+                    <firstName>BOUGUEDDACH</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="51BPI8S">
+                    <lastName>ALI</lastName>
+                    <firstName>BOUHCAIN</firstName>
+                    <moyenne>17.5</moyenne>
+                </student>
+                <student CNE="T5ASDVD">
+                    <lastName>AISSAME</lastName>
+                    <firstName>BOUKHALLAD</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="3D7PD44">
+                    <lastName>AYA</lastName>
+                    <firstName>CHIHAL</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="IIE7W0B">
+                    <lastName>AYOUB</lastName>
+                    <firstName>DKHISSI</firstName>
+                    <moyenne>3.5</moyenne>
+                </student>
+                <student CNE="M50ZNFM">
+                    <lastName>BILAL</lastName>
+                    <firstName>DRAOUI</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="7L4MZF1">
+                    <lastName>NIEMA</lastName>
+                    <firstName>EL GHAZOUANI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="5JQZVMZ">
+                    <lastName>AYOUB</lastName>
+                    <firstName>EL HAOUSSI</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="RNUJDLO">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL HASSANI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="0ZEJ2XS">
+                    <lastName>YOUNESSE</lastName>
+                    <firstName>EL HOUB</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="WNC5W8F">
+                    <lastName>SAAD</lastName>
+                    <firstName>EL KOUARI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="6U9ZZEW">
+                    <lastName>YASSINE</lastName>
+                    <firstName>EL MAAKOUL</firstName>
+                    <moyenne>16.0</moyenne>
+                </student>
+                <student CNE="RENBAEE">
+                    <lastName>ADNAN</lastName>
+                    <firstName>EL MOUTTAKI</firstName>
+                    <moyenne>3.0</moyenne>
+                </student>
+                <student CNE="US1ZO2I">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>EN-NABOUCH</firstName>
+                    <moyenne>1.0</moyenne>
+                </student>
+                <student CNE="8NYVE4L">
+                    <lastName>AMR</lastName>
+                    <firstName>EN-NIARI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="OFJ54Z1">
+                    <lastName>RAJA</lastName>
+                    <firstName>ES-SAHRI</firstName>
+                    <moyenne>10.5</moyenne>
+                </student>
+                <student CNE="FJ3DOCB">
+                    <lastName>AKRAM</lastName>
+                    <firstName>FARES</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="V4WDES9">
+                    <lastName>CHAIMAE</lastName>
+                    <firstName>GHAZI</firstName>
+                    <moyenne>14.5</moyenne>
+                </student>
+                <student CNE="ET6KBGY">
+                    <lastName>MOHAMED</lastName>
+                    <firstName>HAKMAOUI</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="6UV3H7L">
+                    <lastName>YOUSSEF</lastName>
+                    <firstName>HASSISS</firstName>
+                    <moyenne>7.5</moyenne>
+                </student>
+                <student CNE="BVEW04H">
+                    <lastName>NAILA</lastName>
+                    <firstName>HSSASSA</firstName>
+                    <moyenne>4.5</moyenne>
+                </student>
+                <student CNE="35OQXJB">
+                    <lastName>AMINE</lastName>
+                    <firstName>KAMOUN</firstName>
+                    <moyenne>8.5</moyenne>
+                </student>
+                <student CNE="5TAPA6P">
+                    <lastName>ABOUBAKR</lastName>
+                    <firstName>KASSRIOUI</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="II3S9KM">
+                    <lastName>MOUAAD</lastName>
+                    <firstName>KHARCHICH</firstName>
+                    <moyenne>17.0</moyenne>
+                </student>
+                <student CNE="AEC50J8">
+                    <lastName>ZIYAD</lastName>
+                    <firstName>KHETTAB</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="2TU7OKU">
+                    <lastName>MOHAMED AKRAM</lastName>
+                    <firstName>KSSIRI</firstName>
+                    <moyenne>6.5</moyenne>
+                </student>
+                <student CNE="EV9J4CY">
+                    <lastName>HAOUA AMAMATOU OUMAR</lastName>
+                    <firstName>MAIROU</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="EAZSMOG">
+                    <lastName>AMINA</lastName>
+                    <firstName>MALLOUK</firstName>
+                    <moyenne>10.0</moyenne>
+                </student>
+                <student CNE="J5I6S37">
+                    <lastName>HANANE</lastName>
+                    <firstName>MERROUN</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="G6EPI90">
+                    <lastName>BLEK GEDEON</lastName>
+                    <firstName>NGOSSANGA</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="GRPJGQD">
+                    <lastName>WALID</lastName>
+                    <firstName>OMARI</firstName>
+                    <moyenne>11.0</moyenne>
+                </student>
+                <student CNE="1GN5RF7">
+                    <lastName>ALI</lastName>
+                    <firstName>OUAHLI</firstName>
+                    <moyenne>15.5</moyenne>
+                </student>
+                <student CNE="WJP9G5Y">
+                    <lastName>MOUAD</lastName>
+                    <firstName>OUAKIL</firstName>
+                    <moyenne>11.5</moyenne>
+                </student>
+                <student CNE="QXF1TLF">
+                    <lastName>MICHEL</lastName>
+                    <firstName>OUANGRE</firstName>
+                    <moyenne>7.0</moyenne>
+                </student>
+                <student CNE="CPE0IXF">
+                    <lastName>SALOUA</lastName>
+                    <firstName>OULAD SINE</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="O7KF6UG">
+                    <lastName>HAFSSA</lastName>
+                    <firstName>RABAH</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+                <student CNE="IAZ7PWP">
+                    <lastName>AYMAN</lastName>
+                    <firstName>RAMY</firstName>
+                    <moyenne>9.0</moyenne>
+                </student>
+                <student CNE="0CTUJSW">
+                    <lastName>CHAIMAA</lastName>
+                    <firstName>SAIDI</firstName>
+                    <moyenne>19.5</moyenne>
+                </student>
+                <student CNE="6T5AIZU">
+                    <lastName>LOOKMAN OSSAM</lastName>
+                    <firstName>SANA</firstName>
+                    <moyenne>9.5</moyenne>
+                </student>
+                <student CNE="CXPNV0W">
+                    <lastName>HOUDA</lastName>
+                    <firstName>TAALI</firstName>
+                    <moyenne>12.0</moyenne>
+                </student>
+                <student CNE="NV221IM">
+                    <lastName>RABIA</lastName>
+                    <firstName>ZENAGUI</firstName>
+                    <moyenne>8.0</moyenne>
+                </student>
+            </students>
+        </module>
+    </modules>
+</note>

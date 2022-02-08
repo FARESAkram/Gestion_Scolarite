@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<all_students Filiere="GINF">
+    <students class="GINF1">
+        <student CNE="LHE4O19">
+            <firstName>GINF1FN1</firstName>
+            <lastName>GINF1LN1</lastName>
+            <dateOfBirth>21/01/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>066608724</phone>
+            <email>GINF1FN1.GINF1LN1@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WNSZC7C">
+            <firstName>GINF1FN2</firstName>
+            <lastName>GINF1LN2</lastName>
+            <dateOfBirth>22/04/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0674334235</phone>
+            <email>GINF1FN2.GINF1LN2@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="B2CV28U">
+            <firstName>GINF1FN3</firstName>
+            <lastName>GINF1LN3</lastName>
+            <dateOfBirth>16/05/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>068583969</phone>
+            <email>GINF1FN3.GINF1LN3@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="46YK1TC">
+            <firstName>GINF1FN4</firstName>
+            <lastName>GINF1LN4</lastName>
+            <dateOfBirth>25/06/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>061232194</phone>
+            <email>GINF1FN4.GINF1LN4@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XQJ50EL">
+            <firstName>GINF1FN5</firstName>
+            <lastName>GINF1LN5</lastName>
+            <dateOfBirth>18/07/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0637956627</phone>
+            <email>GINF1FN5.GINF1LN5@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XAEP5BE">
+            <firstName>GINF1FN6</firstName>
+            <lastName>GINF1LN6</lastName>
+            <dateOfBirth>31/07/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0648570948</phone>
+            <email>GINF1FN6.GINF1LN6@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="1YEUEE8">
+            <firstName>GINF1FN7</firstName>
+            <lastName>GINF1LN7</lastName>
+            <dateOfBirth>12/08/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0642279892</phone>
+            <email>GINF1FN7.GINF1LN7@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ZOCH481">
+            <firstName>GINF1FN8</firstName>
+            <lastName>GINF1LN8</lastName>
+            <dateOfBirth>14/08/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0688833522</phone>
+            <email>GINF1FN8.GINF1LN8@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5PUQXT2">
+            <firstName>GINF1FN9</firstName>
+            <lastName>GINF1LN9</lastName>
+            <dateOfBirth>22/09/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0659419344</phone>
+            <email>GINF1FN9.GINF1LN9@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="3UHQJDE">
+            <firstName>GINF1FN10</firstName>
+            <lastName>GINF1LN10</lastName>
+            <dateOfBirth>01/12/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0623281860</phone>
+            <email>GINF1FN10.GINF1LN10@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="EAVRRRM">
+            <firstName>GINF1FN11</firstName>
+            <lastName>GINF1LN11</lastName>
+            <dateOfBirth>10/02/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0669842917</phone>
+            <email>GINF1FN11.GINF1LN11@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="N2MPBOK">
+            <firstName>GINF1FN12</firstName>
+            <lastName>GINF1LN12</lastName>
+            <dateOfBirth>22/06/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0656682629</phone>
+            <email>GINF1FN12.GINF1LN12@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="333URG4">
+            <firstName>GINF1FN13</firstName>
+            <lastName>GINF1LN13</lastName>
+            <dateOfBirth>04/07/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0651400516</phone>
+            <email>GINF1FN13.GINF1LN13@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WJOQB5M">
+            <firstName>GINF1FN14</firstName>
+            <lastName>GINF1LN14</lastName>
+            <dateOfBirth>17/07/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0668157564</phone>
+            <email>GINF1FN14.GINF1LN14@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="RJZ6IWN">
+            <firstName>GINF1FN15</firstName>
+            <lastName>GINF1LN15</lastName>
+            <dateOfBirth>29/07/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0655997688</phone>
+            <email>GINF1FN15.GINF1LN15@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="TVJYLUP">
+            <firstName>GINF1FN16</firstName>
+            <lastName>GINF1LN16</lastName>
+            <dateOfBirth>30/08/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0665231778</phone>
+            <email>GINF1FN16.GINF1LN16@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="YARG48N">
+            <firstName>GINF1FN17</firstName>
+            <lastName>GINF1LN17</lastName>
+            <dateOfBirth>14/11/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0621251232</phone>
+            <email>GINF1FN17.GINF1LN17@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="IDUHSE1">
+            <firstName>GINF1FN18</firstName>
+            <lastName>GINF1LN18</lastName>
+            <dateOfBirth>16/01/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0689312009</phone>
+            <email>GINF1FN18.GINF1LN18@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ELQTNA9">
+            <firstName>GINF1FN19</firstName>
+            <lastName>GINF1LN19</lastName>
+            <dateOfBirth>20/02/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0637711086</phone>
+            <email>GINF1FN19.GINF1LN19@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="96AZHRP">
+            <firstName>GINF1FN20</firstName>
+            <lastName>GINF1LN20</lastName>
+            <dateOfBirth>24/02/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0653324302</phone>
+            <email>GINF1FN20.GINF1LN20@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="RE3AP8T">
+            <firstName>GINF1FN21</firstName>
+            <lastName>GINF1LN21</lastName>
+            <dateOfBirth>11/03/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>069064505</phone>
+            <email>GINF1FN21.GINF1LN21@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="46WEBOY">
+            <firstName>GINF1FN22</firstName>
+            <lastName>GINF1LN22</lastName>
+            <dateOfBirth>21/04/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0644827532</phone>
+            <email>GINF1FN22.GINF1LN22@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ABTC4VA">
+            <firstName>GINF1FN23</firstName>
+            <lastName>GINF1LN23</lastName>
+            <dateOfBirth>31/05/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0627437412</phone>
+            <email>GINF1FN23.GINF1LN23@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="HJ9V9XU">
+            <firstName>GINF1FN24</firstName>
+            <lastName>GINF1LN24</lastName>
+            <dateOfBirth>03/07/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0689602349</phone>
+            <email>GINF1FN24.GINF1LN24@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="A16CP1N">
+            <firstName>GINF1FN25</firstName>
+            <lastName>GINF1LN25</lastName>
+            <dateOfBirth>14/11/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0649537974</phone>
+            <email>GINF1FN25.GINF1LN25@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="QEWFVB2">
+            <firstName>GINF1FN26</firstName>
+            <lastName>GINF1LN26</lastName>
+            <dateOfBirth>04/03/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0639605175</phone>
+            <email>GINF1FN26.GINF1LN26@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Z4WRCLM">
+            <firstName>GINF1FN27</firstName>
+            <lastName>GINF1LN27</lastName>
+            <dateOfBirth>15/03/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0638660875</phone>
+            <email>GINF1FN27.GINF1LN27@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5KTT7MU">
+            <firstName>GINF1FN28</firstName>
+            <lastName>GINF1LN28</lastName>
+            <dateOfBirth>08/04/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>066252125</phone>
+            <email>GINF1FN28.GINF1LN28@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="0KHRCTJ">
+            <firstName>GINF1FN29</firstName>
+            <lastName>GINF1LN29</lastName>
+            <dateOfBirth>10/06/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0698325564</phone>
+            <email>GINF1FN29.GINF1LN29@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="0E5MJ29">
+            <firstName>GINF1FN30</firstName>
+            <lastName>GINF1LN30</lastName>
+            <dateOfBirth>24/06/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0617018518</phone>
+            <email>GINF1FN30.GINF1LN30@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="X7QFHAD">
+            <firstName>GINF1FN31</firstName>
+            <lastName>GINF1LN31</lastName>
+            <dateOfBirth>13/07/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0637591534</phone>
+            <email>GINF1FN31.GINF1LN31@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="YAW7VV6">
+            <firstName>GINF1FN32</firstName>
+            <lastName>GINF1LN32</lastName>
+            <dateOfBirth>18/07/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0620529562</phone>
+            <email>GINF1FN32.GINF1LN32@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="P5L6PNE">
+            <firstName>GINF1FN33</firstName>
+            <lastName>GINF1LN33</lastName>
+            <dateOfBirth>26/07/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0643803072</phone>
+            <email>GINF1FN33.GINF1LN33@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="UTWQE0N">
+            <firstName>GINF1FN34</firstName>
+            <lastName>GINF1LN34</lastName>
+            <dateOfBirth>11/08/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0614228181</phone>
+            <email>GINF1FN34.GINF1LN34@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="02DLW6Q">
+            <firstName>GINF1FN35</firstName>
+            <lastName>GINF1LN35</lastName>
+            <dateOfBirth>13/08/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0695358703</phone>
+            <email>GINF1FN35.GINF1LN35@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XV1OYH7">
+            <firstName>GINF1FN36</firstName>
+            <lastName>GINF1LN36</lastName>
+            <dateOfBirth>26/08/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0698704660</phone>
+            <email>GINF1FN36.GINF1LN36@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="NCVQY5N">
+            <firstName>GINF1FN37</firstName>
+            <lastName>GINF1LN37</lastName>
+            <dateOfBirth>12/09/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0658439396</phone>
+            <email>GINF1FN37.GINF1LN37@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Z7JRH0A">
+            <firstName>GINF1FN38</firstName>
+            <lastName>GINF1LN38</lastName>
+            <dateOfBirth>19/10/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>068641606</phone>
+            <email>GINF1FN38.GINF1LN38@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="172NY0G">
+            <firstName>GINF1FN39</firstName>
+            <lastName>GINF1LN39</lastName>
+            <dateOfBirth>19/11/1999</dateOfBirth>
+            <className>GINF1</className>
+            <phone>063317517</phone>
+            <email>GINF1FN39.GINF1LN39@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="QD9BANE">
+            <firstName>GINF1FN40</firstName>
+            <lastName>GINF1LN40</lastName>
+            <dateOfBirth>02/01/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>062101217</phone>
+            <email>GINF1FN40.GINF1LN40@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="D55W9US">
+            <firstName>GINF1FN41</firstName>
+            <lastName>GINF1LN41</lastName>
+            <dateOfBirth>31/01/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0659950847</phone>
+            <email>GINF1FN41.GINF1LN41@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="AWGLHUJ">
+            <firstName>GINF1FN42</firstName>
+            <lastName>GINF1LN42</lastName>
+            <dateOfBirth>25/02/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0697857414</phone>
+            <email>GINF1FN42.GINF1LN42@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XSIUD62">
+            <firstName>GINF1FN43</firstName>
+            <lastName>GINF1LN43</lastName>
+            <dateOfBirth>03/11/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>063419358</phone>
+            <email>GINF1FN43.GINF1LN43@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="X950TD8">
+            <firstName>GINF1FN44</firstName>
+            <lastName>GINF1LN44</lastName>
+            <dateOfBirth>10/12/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0661476489</phone>
+            <email>GINF1FN44.GINF1LN44@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="9EHGIH9">
+            <firstName>GINF1FN45</firstName>
+            <lastName>GINF1LN45</lastName>
+            <dateOfBirth>31/12/2000</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0665224384</phone>
+            <email>GINF1FN45.GINF1LN45@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WZ2GUUC">
+            <firstName>GINF1FN46</firstName>
+            <lastName>GINF1LN46</lastName>
+            <dateOfBirth>23/03/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0690430814</phone>
+            <email>GINF1FN46.GINF1LN46@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WLKNTCY">
+            <firstName>GINF1FN47</firstName>
+            <lastName>GINF1LN47</lastName>
+            <dateOfBirth>07/05/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0633789513</phone>
+            <email>GINF1FN47.GINF1LN47@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="OLTJ2XT">
+            <firstName>GINF1FN48</firstName>
+            <lastName>GINF1LN48</lastName>
+            <dateOfBirth>23/07/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>064796288</phone>
+            <email>GINF1FN48.GINF1LN48@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="K1XQQCD">
+            <firstName>GINF1FN49</firstName>
+            <lastName>GINF1LN49</lastName>
+            <dateOfBirth>12/11/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0649494372</phone>
+            <email>GINF1FN49.GINF1LN49@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="TJK2OYP">
+            <firstName>GINF1FN50</firstName>
+            <lastName>GINF1LN50</lastName>
+            <dateOfBirth>15/11/2001</dateOfBirth>
+            <className>GINF1</className>
+            <phone>0633374031</phone>
+            <email>GINF1FN50.GINF1LN50@etu.uae.ac.ma</email>
+        </student>
+    </students>
+    <students class="GINF2">
+        <student CNE="VKAG1DP">
+            <firstName>AGNAOU</firstName>
+            <lastName>MOHAMED</lastName>
+            <dateOfBirth>14/06/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0642039061</phone>
+            <email>AGNAOU.MOHAMED@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="D54TZFP">
+            <firstName>AL ACHKAR</firstName>
+            <lastName>BADR</lastName>
+            <dateOfBirth>30/07/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0669255705</phone>
+            <email>AL ACHKAR.BADR@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="JFVHI0B">
+            <firstName>AMARA</firstName>
+            <lastName>ASMAE</lastName>
+            <dateOfBirth>11/09/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0668982700</phone>
+            <email>AMARA.ASMAE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="V40N4FJ">
+            <firstName>AOUAD</firstName>
+            <lastName>SAMI</lastName>
+            <dateOfBirth>06/10/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0689684558</phone>
+            <email>AOUAD.SAMI@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="51T9Z6O">
+            <firstName>BAHID</firstName>
+            <lastName>RIHAB</lastName>
+            <dateOfBirth>01/12/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0677215280</phone>
+            <email>BAHID.RIHAB@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XCR2UKS">
+            <firstName>BARRO</firstName>
+            <lastName>CHEICKNA</lastName>
+            <dateOfBirth>20/12/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0661247344</phone>
+            <email>BARRO.CHEICKNA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="9BOJ3LK">
+            <firstName>BEN TARKI</firstName>
+            <lastName>NOUHAILA</lastName>
+            <dateOfBirth>12/01/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0658103754</phone>
+            <email>BEN TARKI.NOUHAILA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="N05RC58">
+            <firstName>BENKHANOUS</firstName>
+            <lastName>SALAHEDDINE</lastName>
+            <dateOfBirth>14/05/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0616129017</phone>
+            <email>BENKHANOUS.SALAHEDDINE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="FOIMNZT">
+            <firstName>BENTALEB</firstName>
+            <lastName>CHAYMAE</lastName>
+            <dateOfBirth>11/06/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0673290079</phone>
+            <email>BENTALEB.CHAYMAE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XRZYRAB">
+            <firstName>BOUGUEDDACH</firstName>
+            <lastName>MOHAMED OUSSAMA</lastName>
+            <dateOfBirth>07/08/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0682669528</phone>
+            <email>BOUGUEDDACH.MOHAMED OUSSAMA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="51BPI8S">
+            <firstName>BOUHCAIN</firstName>
+            <lastName>ALI</lastName>
+            <dateOfBirth>21/09/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0652670336</phone>
+            <email>BOUHCAIN.ALI@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="T5ASDVD">
+            <firstName>BOUKHALLAD</firstName>
+            <lastName>AISSAME</lastName>
+            <dateOfBirth>16/10/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0652031596</phone>
+            <email>BOUKHALLAD.AISSAME@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="3D7PD44">
+            <firstName>CHIHAL</firstName>
+            <lastName>AYA</lastName>
+            <dateOfBirth>28/10/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0654087332</phone>
+            <email>CHIHAL.AYA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="IIE7W0B">
+            <firstName>DKHISSI</firstName>
+            <lastName>AYOUB</lastName>
+            <dateOfBirth>02/01/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0647542174</phone>
+            <email>DKHISSI.AYOUB@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="M50ZNFM">
+            <firstName>DRAOUI</firstName>
+            <lastName>BILAL</lastName>
+            <dateOfBirth>23/02/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0642252592</phone>
+            <email>DRAOUI.BILAL@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="7L4MZF1">
+            <firstName>EL GHAZOUANI</firstName>
+            <lastName>NIEMA</lastName>
+            <dateOfBirth>13/04/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0663797916</phone>
+            <email>EL GHAZOUANI.NIEMA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5JQZVMZ">
+            <firstName>EL HAOUSSI</firstName>
+            <lastName>AYOUB</lastName>
+            <dateOfBirth>14/05/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0617934568</phone>
+            <email>EL HAOUSSI.AYOUB@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="RNUJDLO">
+            <firstName>EL HASSANI</firstName>
+            <lastName>SAAD</lastName>
+            <dateOfBirth>01/06/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0677990493</phone>
+            <email>EL HASSANI.SAAD@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="0ZEJ2XS">
+            <firstName>EL HOUB</firstName>
+            <lastName>YOUNESSE</lastName>
+            <dateOfBirth>21/07/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0633767282</phone>
+            <email>EL HOUB.YOUNESSE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WNC5W8F">
+            <firstName>EL KOUARI</firstName>
+            <lastName>SAAD</lastName>
+            <dateOfBirth>02/08/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0654123489</phone>
+            <email>EL KOUARI.SAAD@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6U9ZZEW">
+            <firstName>EL MAAKOUL</firstName>
+            <lastName>YASSINE</lastName>
+            <dateOfBirth>28/08/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0697130037</phone>
+            <email>EL MAAKOUL.YASSINE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="RENBAEE">
+            <firstName>EL MOUTTAKI</firstName>
+            <lastName>ADNAN</lastName>
+            <dateOfBirth>31/08/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0648133105</phone>
+            <email>EL MOUTTAKI.ADNAN@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="US1ZO2I">
+            <firstName>EN-NABOUCH</firstName>
+            <lastName>MOHAMED</lastName>
+            <dateOfBirth>02/10/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0643487634</phone>
+            <email>EN-NABOUCH.MOHAMED@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="8NYVE4L">
+            <firstName>EN-NIARI</firstName>
+            <lastName>AMR</lastName>
+            <dateOfBirth>08/10/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0622631456</phone>
+            <email>EN-NIARI.AMR@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="OFJ54Z1">
+            <firstName>ES-SAHRI</firstName>
+            <lastName>RAJA</lastName>
+            <dateOfBirth>23/10/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0659103001</phone>
+            <email>ES-SAHRI.RAJA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="FJ3DOCB">
+            <firstName>FARES</firstName>
+            <lastName>AKRAM</lastName>
+            <dateOfBirth>23/03/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0672616949</phone>
+            <email>FARES.AKRAM@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="V4WDES9">
+            <firstName>GHAZI</firstName>
+            <lastName>CHAIMAE</lastName>
+            <dateOfBirth>07/04/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0618878283</phone>
+            <email>GHAZI.CHAIMAE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ET6KBGY">
+            <firstName>HAKMAOUI</firstName>
+            <lastName>MOHAMED</lastName>
+            <dateOfBirth>06/05/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0688987915</phone>
+            <email>HAKMAOUI.MOHAMED@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6UV3H7L">
+            <firstName>HASSISS</firstName>
+            <lastName>YOUSSEF</lastName>
+            <dateOfBirth>09/05/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0691123522</phone>
+            <email>HASSISS.YOUSSEF@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="BVEW04H">
+            <firstName>HSSASSA</firstName>
+            <lastName>NAILA</lastName>
+            <dateOfBirth>11/06/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0682331131</phone>
+            <email>HSSASSA.NAILA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="35OQXJB">
+            <firstName>KAMOUN</firstName>
+            <lastName>AMINE</lastName>
+            <dateOfBirth>30/06/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0640113906</phone>
+            <email>KAMOUN.AMINE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5TAPA6P">
+            <firstName>KASSRIOUI</firstName>
+            <lastName>ABOUBAKR</lastName>
+            <dateOfBirth>11/07/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0684984797</phone>
+            <email>KASSRIOUI.ABOUBAKR@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="II3S9KM">
+            <firstName>KHARCHICH</firstName>
+            <lastName>MOUAAD</lastName>
+            <dateOfBirth>07/08/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0686524477</phone>
+            <email>KHARCHICH.MOUAAD@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="AEC50J8">
+            <firstName>KHETTAB</firstName>
+            <lastName>ZIYAD</lastName>
+            <dateOfBirth>17/11/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>066717368</phone>
+            <email>KHETTAB.ZIYAD@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="2TU7OKU">
+            <firstName>KSSIRI</firstName>
+            <lastName>MOHAMED AKRAM</lastName>
+            <dateOfBirth>27/11/1999</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0639903513</phone>
+            <email>KSSIRI.MOHAMED AKRAM@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="EV9J4CY">
+            <firstName>MAIROU</firstName>
+            <lastName>HAOUA AMAMATOU OUMAR</lastName>
+            <dateOfBirth>13/02/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0650679577</phone>
+            <email>MAIROU.HAOUA AMAMATOU OUMAR@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="EAZSMOG">
+            <firstName>MALLOUK</firstName>
+            <lastName>AMINA</lastName>
+            <dateOfBirth>20/03/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0674800011</phone>
+            <email>MALLOUK.AMINA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="J5I6S37">
+            <firstName>MERROUN</firstName>
+            <lastName>HANANE</lastName>
+            <dateOfBirth>30/03/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0690477986</phone>
+            <email>MERROUN.HANANE@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="G6EPI90">
+            <firstName>NGOSSANGA</firstName>
+            <lastName>BLEK GEDEON</lastName>
+            <dateOfBirth>16/05/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0644209389</phone>
+            <email>NGOSSANGA.BLEK GEDEON@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="GRPJGQD">
+            <firstName>OMARI</firstName>
+            <lastName>WALID</lastName>
+            <dateOfBirth>28/06/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0631626400</phone>
+            <email>OMARI.WALID@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="1GN5RF7">
+            <firstName>OUAHLI</firstName>
+            <lastName>ALI</lastName>
+            <dateOfBirth>05/09/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0612139822</phone>
+            <email>OUAHLI.ALI@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WJP9G5Y">
+            <firstName>OUAKIL</firstName>
+            <lastName>MOUAD</lastName>
+            <dateOfBirth>23/09/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0626986576</phone>
+            <email>OUAKIL.MOUAD@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="QXF1TLF">
+            <firstName>OUANGRE</firstName>
+            <lastName>MICHEL</lastName>
+            <dateOfBirth>08/10/2000</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0675792749</phone>
+            <email>OUANGRE.MICHEL@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="CPE0IXF">
+            <firstName>OULAD SINE</firstName>
+            <lastName>SALOUA</lastName>
+            <dateOfBirth>11/02/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0657995386</phone>
+            <email>OULAD SINE.SALOUA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="O7KF6UG">
+            <firstName>RABAH</firstName>
+            <lastName>HAFSSA</lastName>
+            <dateOfBirth>18/02/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0619426507</phone>
+            <email>RABAH.HAFSSA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="IAZ7PWP">
+            <firstName>RAMY</firstName>
+            <lastName>AYMAN</lastName>
+            <dateOfBirth>25/05/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0680125701</phone>
+            <email>RAMY.AYMAN@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="0CTUJSW">
+            <firstName>SAIDI</firstName>
+            <lastName>CHAIMAA</lastName>
+            <dateOfBirth>11/07/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0621853886</phone>
+            <email>SAIDI.CHAIMAA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6T5AIZU">
+            <firstName>SANA</firstName>
+            <lastName>LOOKMAN OSSAM</lastName>
+            <dateOfBirth>12/10/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>067419735</phone>
+            <email>SANA.LOOKMAN OSSAM@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="CXPNV0W">
+            <firstName>TAALI</firstName>
+            <lastName>HOUDA</lastName>
+            <dateOfBirth>04/12/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0661429765</phone>
+            <email>TAALI.HOUDA@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="NV221IM">
+            <firstName>ZENAGUI</firstName>
+            <lastName>RABIA</lastName>
+            <dateOfBirth>28/12/2001</dateOfBirth>
+            <className>GINF2</className>
+            <phone>0670918050</phone>
+            <email>ZENAGUI.RABIA@etu.uae.ac.ma</email>
+        </student>
+    </students>
+    <students class="GINF3">
+        <student CNE="8QW8826">
+            <firstName>GINF3FN1</firstName>
+            <lastName>GINF3LN1</lastName>
+            <dateOfBirth>03/01/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>061800362</phone>
+            <email>GINF3FN1.GINF3LN1@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Q0ZAODA">
+            <firstName>GINF3FN2</firstName>
+            <lastName>GINF3LN2</lastName>
+            <dateOfBirth>31/01/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0629226421</phone>
+            <email>GINF3FN2.GINF3LN2@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="JYQIVM7">
+            <firstName>GINF3FN3</firstName>
+            <lastName>GINF3LN3</lastName>
+            <dateOfBirth>22/02/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0655327310</phone>
+            <email>GINF3FN3.GINF3LN3@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="4C1LOVN">
+            <firstName>GINF3FN4</firstName>
+            <lastName>GINF3LN4</lastName>
+            <dateOfBirth>08/08/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>063422939</phone>
+            <email>GINF3FN4.GINF3LN4@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="A6S4VOU">
+            <firstName>GINF3FN5</firstName>
+            <lastName>GINF3LN5</lastName>
+            <dateOfBirth>29/11/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0616710164</phone>
+            <email>GINF3FN5.GINF3LN5@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="26RDD2D">
+            <firstName>GINF3FN6</firstName>
+            <lastName>GINF3LN6</lastName>
+            <dateOfBirth>02/12/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0666096174</phone>
+            <email>GINF3FN6.GINF3LN6@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="R44M9U7">
+            <firstName>GINF3FN7</firstName>
+            <lastName>GINF3LN7</lastName>
+            <dateOfBirth>25/12/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0679333554</phone>
+            <email>GINF3FN7.GINF3LN7@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="8TRXXIT">
+            <firstName>GINF3FN8</firstName>
+            <lastName>GINF3LN8</lastName>
+            <dateOfBirth>27/12/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>062149371</phone>
+            <email>GINF3FN8.GINF3LN8@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="SMMYVF9">
+            <firstName>GINF3FN9</firstName>
+            <lastName>GINF3LN9</lastName>
+            <dateOfBirth>24/02/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0664284502</phone>
+            <email>GINF3FN9.GINF3LN9@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="9NHDRY1">
+            <firstName>GINF3FN10</firstName>
+            <lastName>GINF3LN10</lastName>
+            <dateOfBirth>02/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0670840686</phone>
+            <email>GINF3FN10.GINF3LN10@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="MPH74FP">
+            <firstName>GINF3FN11</firstName>
+            <lastName>GINF3LN11</lastName>
+            <dateOfBirth>16/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0678115436</phone>
+            <email>GINF3FN11.GINF3LN11@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="44B8DCZ">
+            <firstName>GINF3FN12</firstName>
+            <lastName>GINF3LN12</lastName>
+            <dateOfBirth>21/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0670055535</phone>
+            <email>GINF3FN12.GINF3LN12@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="I2O0VBW">
+            <firstName>GINF3FN13</firstName>
+            <lastName>GINF3LN13</lastName>
+            <dateOfBirth>22/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0659328322</phone>
+            <email>GINF3FN13.GINF3LN13@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="H3D0GTP">
+            <firstName>GINF3FN14</firstName>
+            <lastName>GINF3LN14</lastName>
+            <dateOfBirth>24/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0625514196</phone>
+            <email>GINF3FN14.GINF3LN14@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ONJ3PF3">
+            <firstName>GINF3FN15</firstName>
+            <lastName>GINF3LN15</lastName>
+            <dateOfBirth>29/08/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0676121175</phone>
+            <email>GINF3FN15.GINF3LN15@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="IPJ306S">
+            <firstName>GINF3FN16</firstName>
+            <lastName>GINF3LN16</lastName>
+            <dateOfBirth>08/09/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0639391438</phone>
+            <email>GINF3FN16.GINF3LN16@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="21YLMN0">
+            <firstName>GINF3FN17</firstName>
+            <lastName>GINF3LN17</lastName>
+            <dateOfBirth>14/09/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0638166259</phone>
+            <email>GINF3FN17.GINF3LN17@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="JIK1KAZ">
+            <firstName>GINF3FN18</firstName>
+            <lastName>GINF3LN18</lastName>
+            <dateOfBirth>14/12/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0686889037</phone>
+            <email>GINF3FN18.GINF3LN18@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="3DMMBL0">
+            <firstName>GINF3FN19</firstName>
+            <lastName>GINF3LN19</lastName>
+            <dateOfBirth>11/01/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0657260482</phone>
+            <email>GINF3FN19.GINF3LN19@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="QS0IZTM">
+            <firstName>GINF3FN20</firstName>
+            <lastName>GINF3LN20</lastName>
+            <dateOfBirth>31/01/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0628022162</phone>
+            <email>GINF3FN20.GINF3LN20@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="63RRTQV">
+            <firstName>GINF3FN21</firstName>
+            <lastName>GINF3LN21</lastName>
+            <dateOfBirth>08/04/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>063264091</phone>
+            <email>GINF3FN21.GINF3LN21@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Q34B44S">
+            <firstName>GINF3FN22</firstName>
+            <lastName>GINF3LN22</lastName>
+            <dateOfBirth>30/04/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0676722581</phone>
+            <email>GINF3FN22.GINF3LN22@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="W0L6QVE">
+            <firstName>GINF3FN23</firstName>
+            <lastName>GINF3LN23</lastName>
+            <dateOfBirth>22/08/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>063767573</phone>
+            <email>GINF3FN23.GINF3LN23@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="2EJBVO9">
+            <firstName>GINF3FN24</firstName>
+            <lastName>GINF3LN24</lastName>
+            <dateOfBirth>01/09/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0666229753</phone>
+            <email>GINF3FN24.GINF3LN24@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="REJAQSM">
+            <firstName>GINF3FN25</firstName>
+            <lastName>GINF3LN25</lastName>
+            <dateOfBirth>08/09/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0669016175</phone>
+            <email>GINF3FN25.GINF3LN25@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="PACYPPG">
+            <firstName>GINF3FN26</firstName>
+            <lastName>GINF3LN26</lastName>
+            <dateOfBirth>03/01/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0692961635</phone>
+            <email>GINF3FN26.GINF3LN26@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="0JU5UAH">
+            <firstName>GINF3FN27</firstName>
+            <lastName>GINF3LN27</lastName>
+            <dateOfBirth>23/05/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0672709506</phone>
+            <email>GINF3FN27.GINF3LN27@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="MG9CUAE">
+            <firstName>GINF3FN28</firstName>
+            <lastName>GINF3LN28</lastName>
+            <dateOfBirth>04/06/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>064803709</phone>
+            <email>GINF3FN28.GINF3LN28@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="DCKHF6A">
+            <firstName>GINF3FN29</firstName>
+            <lastName>GINF3LN29</lastName>
+            <dateOfBirth>18/06/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0680187351</phone>
+            <email>GINF3FN29.GINF3LN29@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="U0CERCC">
+            <firstName>GINF3FN30</firstName>
+            <lastName>GINF3LN30</lastName>
+            <dateOfBirth>18/10/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0674227957</phone>
+            <email>GINF3FN30.GINF3LN30@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5OOK04O">
+            <firstName>GINF3FN31</firstName>
+            <lastName>GINF3LN31</lastName>
+            <dateOfBirth>27/10/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0684197125</phone>
+            <email>GINF3FN31.GINF3LN31@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="TKQ054R">
+            <firstName>GINF3FN32</firstName>
+            <lastName>GINF3LN32</lastName>
+            <dateOfBirth>16/11/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0670767325</phone>
+            <email>GINF3FN32.GINF3LN32@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="V0946O9">
+            <firstName>GINF3FN33</firstName>
+            <lastName>GINF3LN33</lastName>
+            <dateOfBirth>18/11/1999</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0698554791</phone>
+            <email>GINF3FN33.GINF3LN33@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="WCP2PSI">
+            <firstName>GINF3FN34</firstName>
+            <lastName>GINF3LN34</lastName>
+            <dateOfBirth>23/01/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0698272666</phone>
+            <email>GINF3FN34.GINF3LN34@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6ICR5W6">
+            <firstName>GINF3FN35</firstName>
+            <lastName>GINF3LN35</lastName>
+            <dateOfBirth>27/01/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0678443918</phone>
+            <email>GINF3FN35.GINF3LN35@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6LYSTUN">
+            <firstName>GINF3FN36</firstName>
+            <lastName>GINF3LN36</lastName>
+            <dateOfBirth>04/03/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0625302564</phone>
+            <email>GINF3FN36.GINF3LN36@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="SP0ER78">
+            <firstName>GINF3FN37</firstName>
+            <lastName>GINF3LN37</lastName>
+            <dateOfBirth>28/03/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>068018400</phone>
+            <email>GINF3FN37.GINF3LN37@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="F25XBPE">
+            <firstName>GINF3FN38</firstName>
+            <lastName>GINF3LN38</lastName>
+            <dateOfBirth>24/04/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>066391793</phone>
+            <email>GINF3FN38.GINF3LN38@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="5931TSH">
+            <firstName>GINF3FN39</firstName>
+            <lastName>GINF3LN39</lastName>
+            <dateOfBirth>27/06/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0624147907</phone>
+            <email>GINF3FN39.GINF3LN39@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="ZVKLCSV">
+            <firstName>GINF3FN40</firstName>
+            <lastName>GINF3LN40</lastName>
+            <dateOfBirth>29/06/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0682977428</phone>
+            <email>GINF3FN40.GINF3LN40@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="73W8FBH">
+            <firstName>GINF3FN41</firstName>
+            <lastName>GINF3LN41</lastName>
+            <dateOfBirth>16/07/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0629225641</phone>
+            <email>GINF3FN41.GINF3LN41@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Y0IRBM7">
+            <firstName>GINF3FN42</firstName>
+            <lastName>GINF3LN42</lastName>
+            <dateOfBirth>22/10/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0624576417</phone>
+            <email>GINF3FN42.GINF3LN42@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XKS06J1">
+            <firstName>GINF3FN43</firstName>
+            <lastName>GINF3LN43</lastName>
+            <dateOfBirth>26/10/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0640392405</phone>
+            <email>GINF3FN43.GINF3LN43@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="UWLKGFT">
+            <firstName>GINF3FN44</firstName>
+            <lastName>GINF3LN44</lastName>
+            <dateOfBirth>04/11/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0648697842</phone>
+            <email>GINF3FN44.GINF3LN44@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="H1CBNOP">
+            <firstName>GINF3FN45</firstName>
+            <lastName>GINF3LN45</lastName>
+            <dateOfBirth>07/11/2000</dateOfBirth>
+            <className>GINF3</className>
+            <phone>066777682</phone>
+            <email>GINF3FN45.GINF3LN45@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="YLRVF1P">
+            <firstName>GINF3FN46</firstName>
+            <lastName>GINF3LN46</lastName>
+            <dateOfBirth>08/03/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0618547204</phone>
+            <email>GINF3FN46.GINF3LN46@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="XIQAZW1">
+            <firstName>GINF3FN47</firstName>
+            <lastName>GINF3LN47</lastName>
+            <dateOfBirth>17/03/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0695889403</phone>
+            <email>GINF3FN47.GINF3LN47@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="Q3O45BG">
+            <firstName>GINF3FN48</firstName>
+            <lastName>GINF3LN48</lastName>
+            <dateOfBirth>04/06/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0647211620</phone>
+            <email>GINF3FN48.GINF3LN48@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="6O68SUT">
+            <firstName>GINF3FN49</firstName>
+            <lastName>GINF3LN49</lastName>
+            <dateOfBirth>29/07/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>061817943</phone>
+            <email>GINF3FN49.GINF3LN49@etu.uae.ac.ma</email>
+        </student>
+        <student CNE="UMTJJIU">
+            <firstName>GINF3FN50</firstName>
+            <lastName>GINF3LN50</lastName>
+            <dateOfBirth>18/12/2001</dateOfBirth>
+            <className>GINF3</className>
+            <phone>0619628670</phone>
+            <email>GINF3FN50.GINF3LN50@etu.uae.ac.ma</email>
+        </student>
+    </students>
+</all_students>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ExcelReaderAndXML">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Projet/Gestion-De-Scolarite/JARs/ExcelReaderAndXML" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Projet/Gestion-De-Scolarite/JARs/ExcelReaderAndXML" recursive="false" />
+  </library>
+</component>
