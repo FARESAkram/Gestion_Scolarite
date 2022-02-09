@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Note" type="notesType"/>
+  <xs:complexType name="studentType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="lastName"/>
+      <xs:element type="xs:string" name="firstName"/>
+      <xs:element type="xs:string" name="moyenne"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="CNE"/>
+  </xs:complexType>
+  <xs:complexType name="studentsType">
+    <xs:sequence>
+      <xs:element type="studentType" name="Student" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="moduleType">
+    <xs:sequence>
+      <xs:element type="studentsType" name="Students" maxOccurs="1" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="code"/>
+  </xs:complexType>
+  <xs:complexType name="notesType">
+    <xs:sequence>
+      <xs:element type="modulesType" name="Modules" maxOccurs="1" minOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="class"/>
+  </xs:complexType>
+  <xs:complexType name="modulesType">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" type="moduleType" name="Module"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="nom" use="optional"/>
+  </xs:complexType>
+</xs:schema>
