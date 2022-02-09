@@ -15,7 +15,7 @@ import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ProfessorsRe
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.StudentsRetriever;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
-import com.ensat.xml.gestiondescolarite.utils.xmlValidator.StudentXmlValidator;
+import com.ensat.xml.gestiondescolarite.interlay.xmlValidator.StudentXmlValidator;
 
 import java.util.List;
 import java.util.Map;

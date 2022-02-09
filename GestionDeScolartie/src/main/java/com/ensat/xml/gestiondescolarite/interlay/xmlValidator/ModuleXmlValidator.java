@@ -1,17 +1,16 @@
-package com.ensat.xml.gestiondescolarite.utils.xmlValidator;
+package com.ensat.xml.gestiondescolarite.interlay.xmlValidator;
 
-import com.ensat.xml.gestiondescolarite.buisiness.models.Student;
+import com.ensat.xml.gestiondescolarite.buisiness.models.Module;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
 import com.ensat.xml.gestiondescolarite.utils.enums.Type;
 
-import static com.ensat.xml.gestiondescolarite.utils.Paths.*;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.*;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.XSD_EXTENSION;
 
-public class StudentXmlValidator extends XmlValidator<Student>
-{
+public class ModuleXmlValidator  extends XmlValidator<Module>{
     @Override
-    protected String filePath(Filiere filiere, Niveau niveau ,String extension)
-    {
+    protected String filePath(Filiere filiere, Niveau niveau, String extension) {
         if ( XML_EXTENSION.equalsIgnoreCase(extension) )
         {
             return xmlFilePath(filiere, niveau);
@@ -21,13 +20,12 @@ public class StudentXmlValidator extends XmlValidator<Student>
             return xsdFilePath(filiere, niveau);
         }
     }
-
     private String xmlFilePath(Filiere filiere, Niveau niveau)
     {
         if ( niveau == Niveau.TOUS)
         {
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
-            path.append(STUDENTS_XML_PATH);
+            path.append(MODULES_XML_PATH);
             path.append("/all_");
             path.append(Type.STUDENT);
             path.append("s_");
@@ -38,7 +36,7 @@ public class StudentXmlValidator extends XmlValidator<Student>
         else
         {
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
-            path.append(STUDENTS_XML_PATH);
+            path.append(MODULES_XML_PATH);
             path.append("/");
             path.append(Type.STUDENT);
             path.append("s_");

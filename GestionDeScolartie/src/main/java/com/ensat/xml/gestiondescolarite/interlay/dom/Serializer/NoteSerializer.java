@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import static com.ensat.xml.gestiondescolarite.utils.Paths.ABSOLUTE_PATH;
-import static com.ensat.xml.gestiondescolarite.utils.Paths.NOTES_XML_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.ABSOLUTE_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.NOTES_XML_PATH;
 
 public class NoteSerializer extends XmlSerializer<Map.Entry<Module, List<Student>>>
 {

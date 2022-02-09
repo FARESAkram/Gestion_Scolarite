@@ -10,8 +10,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.ensat.xml.gestiondescolarite.utils.Paths.ABSOLUTE_PATH;
-import static com.ensat.xml.gestiondescolarite.utils.Paths.PROFS_XML_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.ABSOLUTE_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.PROFS_XML_PATH;
 
 public class ProfessorSerializer extends XmlSerializer<Professor>
 {

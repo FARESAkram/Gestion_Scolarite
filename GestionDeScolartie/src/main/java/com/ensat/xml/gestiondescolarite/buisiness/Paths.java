@@ -1,4 +1,4 @@
-package com.ensat.xml.gestiondescolarite.utils;
+package com.ensat.xml.gestiondescolarite.buisiness;
 
 import java.nio.file.Path;
 
@@ -24,6 +24,14 @@ public abstract class Paths
     public static final String PROFS_XML_PATH = OUTPUT_PATH+"/Profs/XMLFiles" ;
     public static final String NOTES_XML_PATH = OUTPUT_PATH+"/Notes/XMLFiles";
     public static final String MODULES_XML_PATH = OUTPUT_PATH+"/Modules/XMLFiles";
+
+    //XSD FILES PATHS
+    public static final String STUDENTS_XSD_PATH = OUTPUT_PATH+"/Students/XSDFiles" ;
+    public static final String MATIERES_XSD_PATH = OUTPUT_PATH+"/Matieres/XSDFiles" ;
+    public static final String PROFS_XSD_PATH = OUTPUT_PATH+"/Profs/XSDFiles" ;
+    public static final String NOTES_XSD_PATH = OUTPUT_PATH+"/Notes/XSDFiles";
+    public static final String MODULES_XSD_PATH = OUTPUT_PATH+"/Modules/XSDFiles";
+
     public static final String XML_EXTENSION = ".xml";
     public static final String XSD_EXTENSION = ".xsd";
     public static final String XSL_EXTENSION = ".xsl";
