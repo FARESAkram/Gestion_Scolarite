@@ -19,9 +19,9 @@ import static com.ensat.xml.gestiondescolarite.buisiness.Paths.NOTES_XML_PATH;
 
 public class NoteSerializer extends XmlSerializer<Map.Entry<Module, List<Student>>>
 {
-    private static final String NOTE_ROOT = "note";
-    private static final String MODULE_ROOT = "module";
-    private static final String STUDENT_ROOT = "student";
+    private static final String NOTE_ROOT = "Note";
+    private static final String MODULE_ROOT = "Module";
+    private static final String STUDENT_ROOT = "Student";
 
     private static final String FIRST_NAME_ELEMENT = "firstName";
     private static final String LAST_NAME_ELEMENT = "lastName";

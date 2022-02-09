@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students class="GIL2">
+    <Student CNE="NNZXYA5">
+        <firstName>GIL2FN1</firstName>
+        <lastName>GIL2LN1</lastName>
+        <dateOfBirth>19/01/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0616739362</phone>
+        <email>GIL2FN1.GIL2LN1@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="N3PMGY8">
+        <firstName>GIL2FN2</firstName>
+        <lastName>GIL2LN2</lastName>
+        <dateOfBirth>14/02/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0677984583</phone>
+        <email>GIL2FN2.GIL2LN2@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="XTT9QPL">
+        <firstName>GIL2FN3</firstName>
+        <lastName>GIL2LN3</lastName>
+        <dateOfBirth>02/03/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0681367453</phone>
+        <email>GIL2FN3.GIL2LN3@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="9E3L19H">
+        <firstName>GIL2FN4</firstName>
+        <lastName>GIL2LN4</lastName>
+        <dateOfBirth>03/04/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0647279245</phone>
+        <email>GIL2FN4.GIL2LN4@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="E10AJJF">
+        <firstName>GIL2FN5</firstName>
+        <lastName>GIL2LN5</lastName>
+        <dateOfBirth>11/04/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0684454858</phone>
+        <email>GIL2FN5.GIL2LN5@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="45AZ5RY">
+        <firstName>GIL2FN6</firstName>
+        <lastName>GIL2LN6</lastName>
+        <dateOfBirth>13/04/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0653414805</phone>
+        <email>GIL2FN6.GIL2LN6@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="ONTO9HN">
+        <firstName>GIL2FN7</firstName>
+        <lastName>GIL2LN7</lastName>
+        <dateOfBirth>11/05/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0626355206</phone>
+        <email>GIL2FN7.GIL2LN7@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="7WSXTD1">
+        <firstName>GIL2FN8</firstName>
+        <lastName>GIL2LN8</lastName>
+        <dateOfBirth>16/07/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0632034029</phone>
+        <email>GIL2FN8.GIL2LN8@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="JE9W44C">
+        <firstName>GIL2FN9</firstName>
+        <lastName>GIL2LN9</lastName>
+        <dateOfBirth>20/07/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0621560526</phone>
+        <email>GIL2FN9.GIL2LN9@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="9G0ZL6L">
+        <firstName>GIL2FN10</firstName>
+        <lastName>GIL2LN10</lastName>
+        <dateOfBirth>04/11/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0656520159</phone>
+        <email>GIL2FN10.GIL2LN10@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="MEIR9IM">
+        <firstName>GIL2FN11</firstName>
+        <lastName>GIL2LN11</lastName>
+        <dateOfBirth>18/12/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>065411318</phone>
+        <email>GIL2FN11.GIL2LN11@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="FLYWNZU">
+        <firstName>GIL2FN12</firstName>
+        <lastName>GIL2LN12</lastName>
+        <dateOfBirth>18/02/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0658123664</phone>
+        <email>GIL2FN12.GIL2LN12@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="6JD14LK">
+        <firstName>GIL2FN13</firstName>
+        <lastName>GIL2LN13</lastName>
+        <dateOfBirth>01/04/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0688446741</phone>
+        <email>GIL2FN13.GIL2LN13@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="T4LA2M4">
+        <firstName>GIL2FN14</firstName>
+        <lastName>GIL2LN14</lastName>
+        <dateOfBirth>29/05/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>062705611</phone>
+        <email>GIL2FN14.GIL2LN14@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="OTCRELW">
+        <firstName>GIL2FN15</firstName>
+        <lastName>GIL2LN15</lastName>
+        <dateOfBirth>24/07/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0670941018</phone>
+        <email>GIL2FN15.GIL2LN15@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="QNSAZU8">
+        <firstName>GIL2FN16</firstName>
+        <lastName>GIL2LN16</lastName>
+        <dateOfBirth>07/08/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0661826857</phone>
+        <email>GIL2FN16.GIL2LN16@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="BVB9KCA">
+        <firstName>GIL2FN17</firstName>
+        <lastName>GIL2LN17</lastName>
+        <dateOfBirth>04/10/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0644533872</phone>
+        <email>GIL2FN17.GIL2LN17@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="L09SBIZ">
+        <firstName>GIL2FN18</firstName>
+        <lastName>GIL2LN18</lastName>
+        <dateOfBirth>06/10/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0653482895</phone>
+        <email>GIL2FN18.GIL2LN18@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="9W5L8Z1">
+        <firstName>GIL2FN19</firstName>
+        <lastName>GIL2LN19</lastName>
+        <dateOfBirth>20/10/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0653926853</phone>
+        <email>GIL2FN19.GIL2LN19@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="HLWLJJG">
+        <firstName>GIL2FN20</firstName>
+        <lastName>GIL2LN20</lastName>
+        <dateOfBirth>14/01/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0648152178</phone>
+        <email>GIL2FN20.GIL2LN20@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="HTRZ3MD">
+        <firstName>GIL2FN21</firstName>
+        <lastName>GIL2LN21</lastName>
+        <dateOfBirth>11/02/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0627091292</phone>
+        <email>GIL2FN21.GIL2LN21@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="T9Z1PHD">
+        <firstName>GIL2FN22</firstName>
+        <lastName>GIL2LN22</lastName>
+        <dateOfBirth>08/04/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0693595049</phone>
+        <email>GIL2FN22.GIL2LN22@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="V2O60I9">
+        <firstName>GIL2FN23</firstName>
+        <lastName>GIL2LN23</lastName>
+        <dateOfBirth>09/05/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0662630680</phone>
+        <email>GIL2FN23.GIL2LN23@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="IXWD2R5">
+        <firstName>GIL2FN24</firstName>
+        <lastName>GIL2LN24</lastName>
+        <dateOfBirth>09/12/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0630645028</phone>
+        <email>GIL2FN24.GIL2LN24@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="UASRCDE">
+        <firstName>GIL2FN25</firstName>
+        <lastName>GIL2LN25</lastName>
+        <dateOfBirth>28/12/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0695893869</phone>
+        <email>GIL2FN25.GIL2LN25@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="9JO9J3M">
+        <firstName>GIL2FN26</firstName>
+        <lastName>GIL2LN26</lastName>
+        <dateOfBirth>02/03/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0654863174</phone>
+        <email>GIL2FN26.GIL2LN26@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="SZTV5DG">
+        <firstName>GIL2FN27</firstName>
+        <lastName>GIL2LN27</lastName>
+        <dateOfBirth>09/03/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0642688858</phone>
+        <email>GIL2FN27.GIL2LN27@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="M4GJB4F">
+        <firstName>GIL2FN28</firstName>
+        <lastName>GIL2LN28</lastName>
+        <dateOfBirth>29/05/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0630512914</phone>
+        <email>GIL2FN28.GIL2LN28@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="JH5OS5N">
+        <firstName>GIL2FN29</firstName>
+        <lastName>GIL2LN29</lastName>
+        <dateOfBirth>11/06/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0699312212</phone>
+        <email>GIL2FN29.GIL2LN29@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="T29AD26">
+        <firstName>GIL2FN30</firstName>
+        <lastName>GIL2LN30</lastName>
+        <dateOfBirth>22/09/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0619525728</phone>
+        <email>GIL2FN30.GIL2LN30@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="5R9HF6T">
+        <firstName>GIL2FN31</firstName>
+        <lastName>GIL2LN31</lastName>
+        <dateOfBirth>07/10/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0691038373</phone>
+        <email>GIL2FN31.GIL2LN31@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="AXG106I">
+        <firstName>GIL2FN32</firstName>
+        <lastName>GIL2LN32</lastName>
+        <dateOfBirth>16/10/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0693071575</phone>
+        <email>GIL2FN32.GIL2LN32@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="V9ZHSOL">
+        <firstName>GIL2FN33</firstName>
+        <lastName>GIL2LN33</lastName>
+        <dateOfBirth>27/10/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0666709623</phone>
+        <email>GIL2FN33.GIL2LN33@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="0QC6IG2">
+        <firstName>GIL2FN34</firstName>
+        <lastName>GIL2LN34</lastName>
+        <dateOfBirth>10/12/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0624385073</phone>
+        <email>GIL2FN34.GIL2LN34@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="TAVCPPT">
+        <firstName>GIL2FN35</firstName>
+        <lastName>GIL2LN35</lastName>
+        <dateOfBirth>22/12/1999</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0643849492</phone>
+        <email>GIL2FN35.GIL2LN35@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="U9UBWSJ">
+        <firstName>GIL2FN36</firstName>
+        <lastName>GIL2LN36</lastName>
+        <dateOfBirth>31/01/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0668531819</phone>
+        <email>GIL2FN36.GIL2LN36@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="SS2H1HW">
+        <firstName>GIL2FN37</firstName>
+        <lastName>GIL2LN37</lastName>
+        <dateOfBirth>03/02/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0689276124</phone>
+        <email>GIL2FN37.GIL2LN37@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="I38XAUN">
+        <firstName>GIL2FN38</firstName>
+        <lastName>GIL2LN38</lastName>
+        <dateOfBirth>19/02/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0687927680</phone>
+        <email>GIL2FN38.GIL2LN38@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="6087L9N">
+        <firstName>GIL2FN39</firstName>
+        <lastName>GIL2LN39</lastName>
+        <dateOfBirth>16/07/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0692419740</phone>
+        <email>GIL2FN39.GIL2LN39@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="004ZRCS">
+        <firstName>GIL2FN40</firstName>
+        <lastName>GIL2LN40</lastName>
+        <dateOfBirth>25/09/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0645339224</phone>
+        <email>GIL2FN40.GIL2LN40@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="1653Y81">
+        <firstName>GIL2FN41</firstName>
+        <lastName>GIL2LN41</lastName>
+        <dateOfBirth>02/10/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>069499137</phone>
+        <email>GIL2FN41.GIL2LN41@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="KECMJOV">
+        <firstName>GIL2FN42</firstName>
+        <lastName>GIL2LN42</lastName>
+        <dateOfBirth>20/11/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0621522793</phone>
+        <email>GIL2FN42.GIL2LN42@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="OV9FLXQ">
+        <firstName>GIL2FN43</firstName>
+        <lastName>GIL2LN43</lastName>
+        <dateOfBirth>14/12/2000</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0661691399</phone>
+        <email>GIL2FN43.GIL2LN43@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="V11SHR7">
+        <firstName>GIL2FN44</firstName>
+        <lastName>GIL2LN44</lastName>
+        <dateOfBirth>09/01/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0696539819</phone>
+        <email>GIL2FN44.GIL2LN44@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="M0KTFX3">
+        <firstName>GIL2FN45</firstName>
+        <lastName>GIL2LN45</lastName>
+        <dateOfBirth>03/03/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0621821448</phone>
+        <email>GIL2FN45.GIL2LN45@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="INEQL1Q">
+        <firstName>GIL2FN46</firstName>
+        <lastName>GIL2LN46</lastName>
+        <dateOfBirth>11/05/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0631270674</phone>
+        <email>GIL2FN46.GIL2LN46@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="D1M90QC">
+        <firstName>GIL2FN47</firstName>
+        <lastName>GIL2LN47</lastName>
+        <dateOfBirth>18/06/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>066997720</phone>
+        <email>GIL2FN47.GIL2LN47@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="0B34RC9">
+        <firstName>GIL2FN48</firstName>
+        <lastName>GIL2LN48</lastName>
+        <dateOfBirth>13/07/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0630899356</phone>
+        <email>GIL2FN48.GIL2LN48@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="TBWWROO">
+        <firstName>GIL2FN49</firstName>
+        <lastName>GIL2LN49</lastName>
+        <dateOfBirth>25/11/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0668702177</phone>
+        <email>GIL2FN49.GIL2LN49@etu.uae.ac.ma</email>
+    </Student>
+    <Student CNE="7LODDFM">
+        <firstName>GIL2FN50</firstName>
+        <lastName>GIL2LN50</lastName>
+        <dateOfBirth>11/12/2001</dateOfBirth>
+        <className>GIL2</className>
+        <phone>0673593673</phone>
+        <email>GIL2FN50.GIL2LN50@etu.uae.ac.ma</email>
+    </Student>
+</Students>

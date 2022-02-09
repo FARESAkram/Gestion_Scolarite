@@ -26,11 +26,14 @@ public abstract class Paths
     public static final String MODULES_XML_PATH = OUTPUT_PATH+"/Modules/XMLFiles";
 
     //XSD FILES PATHS
-    public static final String STUDENTS_XSD_PATH = OUTPUT_PATH+"/Students/XSDFiles" ;
-    public static final String MATIERES_XSD_PATH = OUTPUT_PATH+"/Matieres/XSDFiles" ;
-    public static final String PROFS_XSD_PATH = OUTPUT_PATH+"/Profs/XSDFiles" ;
-    public static final String NOTES_XSD_PATH = OUTPUT_PATH+"/Notes/XSDFiles";
-    public static final String MODULES_XSD_PATH = OUTPUT_PATH+"/Modules/XSDFiles";
+    public static final String XML_UTILS_DIRECTORY = "XMLUtils";
+    public static final String XML_UTILS_PATH = "/../"+XML_UTILS_DIRECTORY ;
+    public static final String XSD_FILES_DIRECTORY = "XSDs";
+    public static final String STUDENTS_XSD_PATH = XML_UTILS_PATH+"/"+XSD_FILES_DIRECTORY;
+    public static final String MATIERES_XSD_PATH = XML_UTILS_PATH+"/"+XSD_FILES_DIRECTORY ;
+    public static final String PROFS_XSD_PATH = XML_UTILS_PATH+"/"+XSD_FILES_DIRECTORY ;
+    public static final String NOTES_XSD_PATH = XML_UTILS_PATH+"/"+XSD_FILES_DIRECTORY;
+    public static final String MODULES_XSD_PATH = XML_UTILS_PATH+"/"+XSD_FILES_DIRECTORY;
 
     public static final String XML_EXTENSION = ".xml";
     public static final String XSD_EXTENSION = ".xsd";

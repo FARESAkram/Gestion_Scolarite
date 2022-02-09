@@ -15,7 +15,7 @@ import java.util.List;
 
 public class ModuleSerializer extends XmlSerializer<Module>{
 
-    private static final String MODULE_ROOT = "module";
+    private static final String MODULE_ROOT = "Module";
 
     private static final String MATIERE_ELEMENT = "matiere";
     private static final String DEPARTEMENT_ELEMENT = "departement";
@@ -47,7 +47,8 @@ public class ModuleSerializer extends XmlSerializer<Module>{
     {
         Element root = domElement.creatElement(MODULE_ROOT, null, CODE_ATTRIBUT, module.getCode());
         Element matieres = getMatieres(module);
-        Element department = domElement.creatElement(DEPARTEMENT_ELEMENT);
+        System.out.println(module.getDepartement());
+        Element department = domElement.creatElement(DEPARTEMENT_ELEMENT,module.getDepartement());
         domElement.fill(root,matieres,department);
         return root;
     }

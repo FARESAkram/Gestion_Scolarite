@@ -26,10 +26,8 @@ public class ProfessorXmlValidator extends XmlValidator<Professor>
         StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
         path.append(PROFS_XML_PATH);
         path.append("/");
-        path.append(Type.STUDENT);
-        path.append("s_");
-        path.append(filiere);
-        path.append(niveau);
+        path.append(Type.PROF);
+        path.append("s");
         path.append(XML_EXTENSION);
         return path.toString();
     }
@@ -39,10 +37,8 @@ public class ProfessorXmlValidator extends XmlValidator<Professor>
         StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
         path.append(PROFS_XSD_PATH);
         path.append("/");
-        path.append(Type.STUDENT);
-        path.append("s_");
-        path.append(filiere);
-        path.append(niveau);
+        path.append(Type.PROF);
+        path.append("s");
         path.append(XSD_EXTENSION);
         return path.toString();
     }

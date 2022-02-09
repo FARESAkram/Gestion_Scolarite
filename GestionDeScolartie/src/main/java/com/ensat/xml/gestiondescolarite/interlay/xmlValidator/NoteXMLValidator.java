@@ -33,7 +33,7 @@ public class NoteXMLValidator extends XmlValidator<Map.Entry<Module, List<Studen
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(NOTES_XML_PATH);
             path.append("/all_");
-            path.append(Type.STUDENT);
+            path.append(Type.NOTE);
             path.append("s_");
             path.append(filiere);
             path.append(XML_EXTENSION);
@@ -44,7 +44,7 @@ public class NoteXMLValidator extends XmlValidator<Map.Entry<Module, List<Studen
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(NOTES_XML_PATH);
             path.append("/");
-            path.append(Type.STUDENT);
+            path.append(Type.NOTE);
             path.append("s_");
             path.append(filiere);
             path.append(niveau);
@@ -60,7 +60,7 @@ public class NoteXMLValidator extends XmlValidator<Map.Entry<Module, List<Studen
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(NOTES_XSD_PATH);
             path.append("/all_");
-            path.append(Type.STUDENT);
+            path.append(Type.NOTE);
             path.append("s_");
             path.append(filiere);
             path.append(XSD_EXTENSION);
@@ -71,10 +71,8 @@ public class NoteXMLValidator extends XmlValidator<Map.Entry<Module, List<Studen
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(NOTES_XSD_PATH);
             path.append("/");
-            path.append(Type.STUDENT);
-            path.append("s_");
-            path.append(filiere);
-            path.append(niveau);
+            path.append(Type.NOTE);
+            path.append("s");
             path.append(XSD_EXTENSION);
             return path.toString();
         }

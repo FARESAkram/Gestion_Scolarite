@@ -27,14 +27,18 @@ public abstract class XmlValidator<T> implements Validator<T>
         {
             File xmlFile = getXMLFile(filiere,niveau);
             File xsdFile = getXSDFile(filiere,niveau);
+            System.out.println(xmlFile.getAbsolutePath());
+            System.out.println(xsdFile.getAbsolutePath());
             isValid(xmlFile,xsdFile);
         }
         catch (FileNotFoundException e)
         {
+            e.printStackTrace();
             throw new DaoException("XML or XSD file not found");
         }
         catch (IOException | SAXException e)
         {
+            e.printStackTrace();
             throw new DaoException("XML n'est pas valid");
         }
     }

@@ -27,7 +27,7 @@ public class ModuleXmlValidator  extends XmlValidator<Module>{
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(MODULES_XML_PATH);
             path.append("/all_");
-            path.append(Type.STUDENT);
+            path.append(Type.MODULE);
             path.append("s_");
             path.append(filiere);
             path.append(XML_EXTENSION);
@@ -38,7 +38,7 @@ public class ModuleXmlValidator  extends XmlValidator<Module>{
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
             path.append(MODULES_XML_PATH);
             path.append("/");
-            path.append(Type.STUDENT);
+            path.append(Type.MODULE);
             path.append("s_");
             path.append(filiere);
             path.append(niveau);
@@ -52,9 +52,9 @@ public class ModuleXmlValidator  extends XmlValidator<Module>{
         if ( niveau == Niveau.TOUS)
         {
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
-            path.append(STUDENTS_XML_PATH);
+            path.append(MODULES_XSD_PATH);
             path.append("/all_");
-            path.append(Type.STUDENT);
+            path.append(Type.MODULE);
             path.append("s_");
             path.append(filiere);
             path.append(XSD_EXTENSION);
@@ -63,12 +63,10 @@ public class ModuleXmlValidator  extends XmlValidator<Module>{
         else
         {
             StringBuilder path = new StringBuilder(ABSOLUTE_PATH);
-            path.append(STUDENTS_XML_PATH);
+            path.append(MODULES_XSD_PATH);
             path.append("/");
-            path.append(Type.STUDENT);
-            path.append("s_");
-            path.append(filiere);
-            path.append(niveau);
+            path.append(Type.MODULE);
+            path.append("s");
             path.append(XSD_EXTENSION);
             return path.toString();
         }

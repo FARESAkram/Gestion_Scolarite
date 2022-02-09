@@ -68,9 +68,7 @@ public class StudentXmlValidator extends XmlValidator<Student>
             path.append(STUDENTS_XSD_PATH);
             path.append("/");
             path.append(Type.STUDENT);
-            path.append("s_");
-            path.append(filiere);
-            path.append(niveau);
+            path.append("s");
             path.append(XSD_EXTENSION);
             return path.toString();
         }
