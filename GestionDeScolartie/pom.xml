@@ -73,6 +73,16 @@
             <artifactId>xmlbeans</artifactId>
             <version>2.6.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>fop</artifactId>
+            <version>2.7</version>
+        </dependency>
+        <dependency>
+            <groupId>net.sf.saxon</groupId>
+            <artifactId>Saxon-HE</artifactId>
+            <version>11.1</version>
+        </dependency>
     </dependencies>
 
 

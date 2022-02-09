@@ -1,7 +1,7 @@
 package com.ensat.xml.gestiondescolarite.interlay.xmlValidator;
 
-import com.ensat.xml.gestiondescolarite.interlay.daos.DaoException;
-import com.ensat.xml.gestiondescolarite.interlay.daos.Validator;
+import com.ensat.xml.gestiondescolarite.interlay.DaoException;
+import com.ensat.xml.gestiondescolarite.interlay.Validator;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
 import org.xml.sax.SAXException;
@@ -27,8 +27,6 @@ public abstract class XmlValidator<T> implements Validator<T>
         {
             File xmlFile = getXMLFile(filiere,niveau);
             File xsdFile = getXSDFile(filiere,niveau);
-            System.out.println(xmlFile.getAbsolutePath());
-            System.out.println(xsdFile.getAbsolutePath());
             isValid(xmlFile,xsdFile);
         }
         catch (FileNotFoundException e)

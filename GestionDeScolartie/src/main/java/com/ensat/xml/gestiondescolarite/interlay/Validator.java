@@ -1,4 +1,4 @@
-package com.ensat.xml.gestiondescolarite.interlay.daos;
+package com.ensat.xml.gestiondescolarite.interlay;
 
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;

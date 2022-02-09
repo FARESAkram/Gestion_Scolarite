@@ -35,12 +35,16 @@ public class NotesRetriever extends ExcelDataRetriever<Map.Entry<Module, List<St
         List<Student> moduleStudents = getNotes(xssfSheet);
         for ( Module module: modules)
         {
-            for ( Student student:students)
+            List<Student> studentList = new ArrayList<>();
+            for ( Student student:moduleStudents)
             {
-                if ( student.getNotes().containsKey(module) )
-                    moduleStudents.add(student);
+                if ( student.getNotes().containsKey(module) && !studentList.contains(student) )
+                {
+                    studentList.add(student);
+                    //moduleStudents.add(student);
+                }
             }
-            Map.Entry<Module, List<Student>> entry = new AbstractMap.SimpleEntry<>(module,moduleStudents);
+            Map.Entry<Module, List<Student>> entry = new AbstractMap.SimpleEntry<>(module,studentList);
             res.add(entry);
         }
         return res;

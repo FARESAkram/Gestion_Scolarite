@@ -68,7 +68,7 @@ public class DomUtils
         DocumentBuilder db = dbf.newDocumentBuilder();
         return db.parse(file);
     }
-    public static void transformToXML(OutputStream ouput, DOMSource source) throws TransformerException
+    public static void transformToXML(OutputStream ouput, Source source) throws TransformerException
     {
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();

@@ -19,17 +19,17 @@ import static com.ensat.xml.gestiondescolarite.buisiness.Paths.NOTES_XML_PATH;
 
 public class NoteSerializer extends XmlSerializer<Map.Entry<Module, List<Student>>>
 {
-    private static final String NOTE_ROOT = "Note";
-    private static final String MODULE_ROOT = "Module";
-    private static final String STUDENT_ROOT = "Student";
+    public static final String NOTE_ROOT = "Note";
+    public static final String MODULE_ROOT = "Module";
+    public static final String STUDENT_ROOT = "Student";
 
-    private static final String FIRST_NAME_ELEMENT = "firstName";
-    private static final String LAST_NAME_ELEMENT = "lastName";
-    private static final String MOYENNE_ELEMENT = "moyenne";
+    public static final String FIRST_NAME_ELEMENT = "firstName";
+    public static final String LAST_NAME_ELEMENT = "lastName";
+    public static final String MOYENNE_ELEMENT = "moyenne";
 
-    private static final String CODE_ATTRIBUT = "code";
-    private static final String CNE_ATTRIBUT = "CNE";
-    private static final String CLASS_ATTRIBUT = "class";
+    public static final String CODE_ATTRIBUT = "code";
+    public static final String CNE_ATTRIBUT = "CNE";
+    public static final String CLASS_ATTRIBUT = "class";
 
     public NoteSerializer(Filiere filiere, Niveau niveau, Retriever<Map.Entry<Module, List<Student>>> retriever) throws IOException {
         super(filiere, niveau, retriever);

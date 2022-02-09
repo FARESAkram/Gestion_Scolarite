@@ -47,7 +47,6 @@ public class ModuleSerializer extends XmlSerializer<Module>{
     {
         Element root = domElement.creatElement(MODULE_ROOT, null, CODE_ATTRIBUT, module.getCode());
         Element matieres = getMatieres(module);
-        System.out.println(module.getDepartement());
         Element department = domElement.creatElement(DEPARTEMENT_ELEMENT,module.getDepartement());
         domElement.fill(root,matieres,department);
         return root;
