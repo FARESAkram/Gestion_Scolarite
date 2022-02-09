@@ -4,3 +4,5 @@
 .idea
 #target
 /target
+#output
+../OUTPUT
