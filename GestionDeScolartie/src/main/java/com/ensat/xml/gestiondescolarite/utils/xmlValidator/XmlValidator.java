@@ -18,7 +18,7 @@ import java.io.IOException;
 import static com.ensat.xml.gestiondescolarite.utils.Paths.XML_EXTENSION;
 import static com.ensat.xml.gestiondescolarite.utils.Paths.XSD_EXTENSION;
 
-public abstract class XmlValidator<T> implements Validator
+public abstract class XmlValidator<T> implements Validator<T>
 {
 
     public void validate(Filiere filiere, Niveau niveau) throws DaoException

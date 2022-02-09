@@ -2,6 +2,7 @@ package com.ensat.xml.gestiondescolarite;
 
 import com.ensat.xml.gestiondescolarite.buisiness.models.Module;
 import com.ensat.xml.gestiondescolarite.buisiness.models.Student;
+import com.ensat.xml.gestiondescolarite.interlay.daos.Validator;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ModuleSerializer;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.NoteSerializer;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ProfessorSerializer;
@@ -14,6 +15,7 @@ import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ProfessorsRe
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.StudentsRetriever;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
+import com.ensat.xml.gestiondescolarite.utils.xmlValidator.StudentXmlValidator;
 
 import java.util.List;
 import java.util.Map;
@@ -45,8 +47,8 @@ public class Main
             noteSerializer.serialize();
             /*Retriever<Map.Entry<Module,List<Student>>> studentRetriever = new NotesRetriever();
             studentRetriever.getData();*/
-            /*Validator validator = new StudentXmlValidator();
-            validator.validate(Filiere.GINF, Niveau.DEUX);*/
+            Validator validator = new StudentXmlValidator();
+            validator.validate(Filiere.GINF, Niveau.DEUX);
         }
         catch (Exception e)
         {

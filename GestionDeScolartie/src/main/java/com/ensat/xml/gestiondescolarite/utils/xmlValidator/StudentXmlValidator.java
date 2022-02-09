@@ -12,7 +12,7 @@ public class StudentXmlValidator extends XmlValidator<Student>
     @Override
     protected String filePath(Filiere filiere, Niveau niveau ,String extension)
     {
-        if ( extension == XML_EXTENSION )
+        if ( XML_EXTENSION.equalsIgnoreCase(extension) )
         {
             return xmlFilePath(filiere, niveau);
         }
