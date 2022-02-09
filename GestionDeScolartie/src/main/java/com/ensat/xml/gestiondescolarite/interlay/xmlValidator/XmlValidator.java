@@ -1,4 +1,4 @@
-package com.ensat.xml.gestiondescolarite.utils.xmlValidator;
+package com.ensat.xml.gestiondescolarite.interlay.xmlValidator;
 
 import com.ensat.xml.gestiondescolarite.interlay.daos.DaoException;
 import com.ensat.xml.gestiondescolarite.interlay.daos.Validator;
@@ -15,10 +15,10 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import static com.ensat.xml.gestiondescolarite.utils.Paths.XML_EXTENSION;
-import static com.ensat.xml.gestiondescolarite.utils.Paths.XSD_EXTENSION;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.XML_EXTENSION;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.XSD_EXTENSION;
 
-public abstract class XmlValidator<T> implements Validator
+public abstract class XmlValidator<T> implements Validator<T>
 {
 
     public void validate(Filiere filiere, Niveau niveau) throws DaoException

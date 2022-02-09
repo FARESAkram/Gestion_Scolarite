@@ -13,8 +13,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.ensat.xml.gestiondescolarite.utils.Paths.ABSOLUTE_PATH;
-import static com.ensat.xml.gestiondescolarite.utils.Paths.STUDENTS_XML_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.ABSOLUTE_PATH;
+import static com.ensat.xml.gestiondescolarite.buisiness.Paths.STUDENTS_XML_PATH;
 
 public class StudentSerializer extends XmlSerializer<Student>
 {

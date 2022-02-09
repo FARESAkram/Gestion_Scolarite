@@ -2,7 +2,7 @@ package com.ensat.xml.gestiondescolarite.interlay.dom.Serializer;
 
 import com.ensat.xml.gestiondescolarite.buisiness.models.Matiere;
 import com.ensat.xml.gestiondescolarite.buisiness.models.Module;
-import com.ensat.xml.gestiondescolarite.utils.Paths;
+import com.ensat.xml.gestiondescolarite.buisiness.Paths;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
 import com.ensat.xml.gestiondescolarite.buisiness.Retriever;
