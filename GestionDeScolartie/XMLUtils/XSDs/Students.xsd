@@ -3,30 +3,31 @@
     <xs:element name="Students">
         <xs:complexType>
             <xs:sequence>
-                <xs:element maxOccurs="unbounded" ref="student"/>
+                <xs:element maxOccurs="unbounded" ref="Student"/>
             </xs:sequence>
+            <xs:attribute type="xs:string" name="class"/>
         </xs:complexType>
         <xs:unique name="UniqueCNE">
-            <xs:selector xpath="student" />
+            <xs:selector xpath="Student" />
             <xs:field xpath="@CNE" />
         </xs:unique>
     </xs:element>
-    <xs:element name="student">
+    <xs:element name="Student">
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="firstName"/>
                 <xs:element ref="lastName"/>
-                <xs:element ref="DateofBirth"/>
-                <xs:element ref="ClasseName"/>
-                <xs:element ref="Phone"/>
-                <xs:element ref="Email"/>
+                <xs:element ref="dateOfBirth"/>
+                <xs:element ref="className"/>
+                <xs:element ref="phone"/>
+                <xs:element ref="email"/>
             </xs:sequence>
             <xs:attribute name="CNE" use="required" type="xs:NMTOKEN"/>
         </xs:complexType>
     </xs:element>
     <xs:element name="firstName" type="xs:string"/>
     <xs:element name="lastName" type="xs:string"/>
-    <xs:element name="DateofBirth">
+    <xs:element name="dateOfBirth">
         <xs:simpleType>
             <xs:restriction base="xs:string">
                 <xs:pattern value="[0-9]{2}/[0-9]{2}/[0-9]{4}"/>
@@ -41,15 +42,15 @@
             </xs:restriction>
         </xs:simpleType>
     </xs:element>
-    <xs:element name="ClasseName" type="xs:NCName"/>
-    <xs:element name="Phone">
+    <xs:element name="className" type="xs:NCName"/>
+    <xs:element name="phone">
         <xs:simpleType>
             <xs:restriction base="xs:string">
                 <xs:pattern value="0[0-9]{9}"/>
             </xs:restriction>
         </xs:simpleType>
     </xs:element>
-    <xs:element name="Email">
+    <xs:element name="email">
         <xs:simpleType>
             <xs:restriction base="xs:string">
                 <xs:pattern value="[^@\s]+@[^@\s]+.\.[^@\s]+"/>

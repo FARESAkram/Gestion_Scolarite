@@ -1,5 +1,9 @@
 package com.ensat.xml.gestiondescolarite.interlay.xsltProcessor;
 
+import com.ensat.xml.gestiondescolarite.buisiness.Paths;
+import com.ensat.xml.gestiondescolarite.interlay.xmlValidator.NoteXMLValidator;
+import com.ensat.xml.gestiondescolarite.interlay.xmlValidator.StudentXmlValidator;
+import com.ensat.xml.gestiondescolarite.interlay.xmlValidator.XmlValidator;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import org.apache.fop.apps.*;
 
@@ -13,7 +17,8 @@ import java.io.OutputStream;
 
 public class XsltProcessor {
 
-    public void generatePDF(File xmlfile, File xsltfile, String PDFName){
+    public void generatePDF(File xmlfile, File xsltfile, String PDFName) throws XsltException{
+
         try {
             File pdfDir = new File("OUTPUT/PDFs");
             pdfDir.mkdirs();
@@ -39,9 +44,9 @@ public class XsltProcessor {
                 Result res = new SAXResult(fop.getDefaultHandler());
                 // Start XSLT transformation and FOP processing
                 transformer.transform(src, res);
+                System.out.println("Vous trouverez le fichier dans le chemin suivant: "+ Paths.ABSOLUTE_PATH+Paths.OUTPUT_PATH+"/PDFs");
             } catch (FOPException | TransformerException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
+                throw new XsltException("Probléme rencontrer lors de la création du fichier PDF");
             } finally {
                 out.close();
             }

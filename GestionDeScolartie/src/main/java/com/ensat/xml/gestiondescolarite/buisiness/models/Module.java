@@ -49,7 +49,7 @@ public class Module
 
     @Override
     public String toString() {
-        return code+": "+nom;
+        return code+": "+nom+" "+departement;
     }
 
     @Override

@@ -39,7 +39,13 @@ public class StudentsRetriever extends ExcelDataRetriever<Student>
             row = rowIterator.next();
             Student student = new Student();
             int index = 0 ;
-            if ( row.getCell(index) != null )
+            if ( row.getCell(index) != null &&
+                    row.getCell(index+1) != null &&
+                    row.getCell(index+2) != null &&
+                    row.getCell(index+3) != null &&
+                    row.getCell(index+4) != null &&
+                    row.getCell(index+5) != null &&
+                    row.getCell(index+6) != null )
             {
                 student.setCne(row.getCell(index).getStringCellValue());
                 student.setFirstName(row.getCell(index+1).getStringCellValue());

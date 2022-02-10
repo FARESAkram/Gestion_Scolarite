@@ -1,0 +1,34 @@
+body{
+    background-color: #eeeeee;
+    font-family: "DejaVu Serif", serif;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+h1{
+    color: royalblue;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+td:last-child{
+    min-width: 100px;
+}
+.valide{
+    background-color: #2cf82c;
+}
+.rattElemin{
+    background-color: #fa1a1a;
+}
+.ratt{
+    background-color: #faa71d;
+}
+a{
+    text-align: center;
+    font-size: 15pt;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    text-decoration: none;
+}

@@ -47,7 +47,7 @@ public class ProfessorSerializer extends XmlSerializer<Professor>
         domElement.fill(element,elements);
         super.root = element;
         document.appendChild(super.root);
-        outputFileName = PROFESSOR_ROOT +"s";
+        outputFileName = PROFESSOR_ROOT+"s";
     }
     private Element getProfessorRow(Professor professor) throws IOException
     {

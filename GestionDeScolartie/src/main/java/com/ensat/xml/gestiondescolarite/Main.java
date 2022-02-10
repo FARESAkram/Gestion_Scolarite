@@ -1,65 +1,21 @@
 package com.ensat.xml.gestiondescolarite;
 
-import com.ensat.xml.gestiondescolarite.buisiness.Retriever;
-import com.ensat.xml.gestiondescolarite.buisiness.Serializer;
-import com.ensat.xml.gestiondescolarite.buisiness.models.Professor;
-import com.ensat.xml.gestiondescolarite.buisiness.models.Student;
-import com.ensat.xml.gestiondescolarite.buisiness.services.ServiceException;
-import com.ensat.xml.gestiondescolarite.buisiness.services.TPGroupeGenerator.TPGroupeGenerator;
-import com.ensat.xml.gestiondescolarite.buisiness.services.pdfGenerator.*;
-import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ModuleSerializer;
-import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.NoteSerializer;
-import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ProfessorSerializer;
-import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.StudentSerializer;
-import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ModuleRetriever;
-import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.NotesRetriever;
-import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ProfessorsRetriever;
-import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.StudentsRetriever;
-import com.ensat.xml.gestiondescolarite.interlay.xqueryProcessor.XQueryException;
-import com.ensat.xml.gestiondescolarite.interlay.xqueryProcessor.XQueryProcessor;
-import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
-import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
+import com.ensat.xml.gestiondescolarite.utils.ASCIIart;
 
-import java.util.List;
-import java.util.Map;
+import java.util.Scanner;
+
 
 public class Main
 {
     public static Boolean DISABLE_WARNING = false;
+    private static Scanner scanner = new Scanner(System.in);
+
+
+
     public static void main(String[] args)
     {
         disableWarning(DISABLE_WARNING);
-
-        try
-        {
-            Serializer<Professor> entrySerializer = new ProfessorSerializer(
-                    new ProfessorsRetriever()
-            );
-            entrySerializer.serialize();
-            Serializer<Module> moduleSerializer = new ModuleSerializer(
-                    Filiere.GINF, Niveau.DEUX,new ModuleRetriever()
-            );
-            moduleSerializer.serialize();
-            Serializer<Student> studentSerializer = new StudentSerializer(
-                    Filiere.GINF, Niveau.DEUX,new StudentsRetriever()
-            );
-            studentSerializer.serialize();
-            Serializer<Map.Entry<Module, List<Student>>> noteSerializer = new NoteSerializer(
-                    Filiere.GINF, Niveau.DEUX,new NotesRetriever()
-            );
-            noteSerializer.serialize();
-            Retriever<Map.Entry<Module,List<Student>>> studentRetriever = new NotesRetriever();
-            studentRetriever.getData();
-            /*Validator validator = new StudentXmlValidator();
-            validator.validate(Filiere.GINF, Niveau.DEUX);*/
-
-
-        }
-        catch (Exception e)
-        {
-            System.out.println(e.getMessage());
-        }
-    }
+        ASCIIart.write("Gestion De Scolarite");    }
     public static void disableWarning(boolean disable)
     {
         if ( disable )

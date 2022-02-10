@@ -18,7 +18,7 @@ import static com.ensat.xml.gestiondescolarite.buisiness.Paths.STUDENTS_XML_PATH
 
 public class StudentSerializer extends XmlSerializer<Student>
 {
-    private static final String STUDENT_ROOT = "student";
+    private static final String STUDENT_ROOT = "Student";
 
     private static final String FIRST_NAME_ELEMENT = "firstName";
     private static final String LAST_NAME_ELEMENT = "lastName";

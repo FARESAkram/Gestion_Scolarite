@@ -63,6 +63,7 @@ public abstract class XmlSerializer<T> implements Serializer<T>
         {
             this.generateXMLFile();
             String ouputPath = getOutputPath()+"/"+ outputFileName + Paths.XML_EXTENSION;
+            System.out.println(ouputPath);
             File outputFile = new File(ouputPath);
             DomUtils.transformToXML(new FileOutputStream(outputFile), new DOMSource(document));
         }
