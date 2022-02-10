@@ -1,25 +1,25 @@
 package com.ensat.xml.gestiondescolarite;
 
-import com.ensat.xml.gestiondescolarite.buisiness.models.Module;
+import com.ensat.xml.gestiondescolarite.buisiness.Retriever;
+import com.ensat.xml.gestiondescolarite.buisiness.Serializer;
+import com.ensat.xml.gestiondescolarite.buisiness.models.Professor;
 import com.ensat.xml.gestiondescolarite.buisiness.models.Student;
-import com.ensat.xml.gestiondescolarite.interlay.XQueryProcessor.XQueryException;
-import com.ensat.xml.gestiondescolarite.interlay.XQueryProcessor.XQueryProcessor;
-import com.ensat.xml.gestiondescolarite.interlay.daos.Validator;
+import com.ensat.xml.gestiondescolarite.buisiness.services.ServiceException;
+import com.ensat.xml.gestiondescolarite.buisiness.services.TPGroupeGenerator.TPGroupeGenerator;
+import com.ensat.xml.gestiondescolarite.buisiness.services.pdfGenerator.*;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ModuleSerializer;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.NoteSerializer;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.ProfessorSerializer;
-import com.ensat.xml.gestiondescolarite.buisiness.Serializer;
-import com.ensat.xml.gestiondescolarite.buisiness.models.Professor;
 import com.ensat.xml.gestiondescolarite.interlay.dom.Serializer.StudentSerializer;
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ModuleRetriever;
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.NotesRetriever;
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.ProfessorsRetriever;
 import com.ensat.xml.gestiondescolarite.interlay.excelDataRetriever.StudentsRetriever;
+import com.ensat.xml.gestiondescolarite.interlay.xqueryProcessor.XQueryException;
+import com.ensat.xml.gestiondescolarite.interlay.xqueryProcessor.XQueryProcessor;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
-import com.ensat.xml.gestiondescolarite.interlay.xmlValidator.StudentXmlValidator;
 
-import java.io.File;
 import java.util.List;
 import java.util.Map;
 
@@ -32,7 +32,7 @@ public class Main
 
         try
         {
-            /*Serializer<Professor> entrySerializer = new ProfessorSerializer(
+            Serializer<Professor> entrySerializer = new ProfessorSerializer(
                     new ProfessorsRetriever()
             );
             entrySerializer.serialize();
@@ -47,18 +47,13 @@ public class Main
             Serializer<Map.Entry<Module, List<Student>>> noteSerializer = new NoteSerializer(
                     Filiere.GINF, Niveau.DEUX,new NotesRetriever()
             );
-            noteSerializer.serialize();*/
-            /*Retriever<Map.Entry<Module,List<Student>>> studentRetriever = new NotesRetriever();
-            studentRetriever.getData();*/
+            noteSerializer.serialize();
+            Retriever<Map.Entry<Module,List<Student>>> studentRetriever = new NotesRetriever();
+            studentRetriever.getData();
             /*Validator validator = new StudentXmlValidator();
             validator.validate(Filiere.GINF, Niveau.DEUX);*/
-            try {
-                XQueryProcessor processor = new XQueryProcessor(Filiere.GINF,Niveau.DEUX);
-                processor.generateStudent("VKAG1DP");
-            }catch (XQueryException e){
-                System.out.println(e.getMessage());
-                e.printStackTrace();
-            }
+
+
         }
         catch (Exception e)
         {

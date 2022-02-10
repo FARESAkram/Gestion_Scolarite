@@ -1,7 +1,7 @@
 package com.ensat.xml.gestiondescolarite.interlay.xmlValidator;
 
-import com.ensat.xml.gestiondescolarite.interlay.daos.DaoException;
-import com.ensat.xml.gestiondescolarite.interlay.daos.Validator;
+import com.ensat.xml.gestiondescolarite.interlay.DaoException;
+import com.ensat.xml.gestiondescolarite.interlay.Validator;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
 import org.xml.sax.SAXException;

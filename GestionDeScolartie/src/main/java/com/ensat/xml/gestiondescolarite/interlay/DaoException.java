@@ -1,4 +1,4 @@
-package com.ensat.xml.gestiondescolarite.interlay.daos;
+package com.ensat.xml.gestiondescolarite.interlay;
 
 public class DaoException extends Exception
 {

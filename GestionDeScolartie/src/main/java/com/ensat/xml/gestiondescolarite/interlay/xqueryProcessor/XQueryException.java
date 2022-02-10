@@ -1,4 +1,4 @@
-package com.ensat.xml.gestiondescolarite.interlay.XQueryProcessor;
+package com.ensat.xml.gestiondescolarite.interlay.xqueryProcessor;
 
 public class XQueryException extends Exception {
 
