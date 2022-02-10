@@ -29,6 +29,12 @@ public class XQueryProcessor {
         generateFile(xmlFile,xqueryFile,getOutputPath("student"),"CNE",CNE,"filiere",filiere.getDef(),"niveau",niveau.getNumero()+"");
     }
 
+    public void generateStudent(String CNE,String photo) throws XQueryException{
+        File xmlFile = getFile("student","xml");
+        File xqueryFile = getFile("student","xquery",false);
+        generateFile(xmlFile,xqueryFile,getOutputPath("student"),"CNE",CNE,"filiere",filiere.getDef(),"niveau",niveau.getNumero()+"","photo",photo);
+    }
+
     public void generateEmploiSemaine(int semaine) throws XQueryException{
         File xmlFile = getFile("semaine","xml");
         File xqueryFile = getFile("semaine","xquery");
@@ -38,7 +44,7 @@ public class XQueryProcessor {
     public void generateGroupTP() throws XQueryException{
         File xmlFile = getFile("group","xml");
         File xqueryFile = getFile("group","xquery");
-        for(int i=0;i<=getNumberOfGroupes();i++)
+        for(int i=0;i<getNumberOfGroupes();i++)
             generateFile(xmlFile,xqueryFile,getOutputPath("group")+(i+1)+".xml","groupSizeString",24+"","filiere",filiere.getDef(),"niveau",niveau.getNumero()+"","groupNumberString",(i+1)+"");
 
     }
@@ -79,13 +85,11 @@ public class XQueryProcessor {
             }
             catch (TransformerException | FileNotFoundException e)
             {
-                e.printStackTrace();
                 throw new XQueryException("SERVER_ERROR: Failed to create file");
             }
         }
         catch (IOException | SaxonApiException e )
         {
-            e.printStackTrace();
             throw new XQueryException("SERVER ERROR: Could not apply the XQUERY file on XML");
         }
     }
@@ -115,6 +119,19 @@ public class XQueryProcessor {
         }
     }
 
+    private File getFile(String type,String extension, boolean needsNotes){
+        if(needsNotes)
+            return getFile(type,extension);
+        else{
+            if(extension.equals("xml"))
+                return new File(Paths.ABSOLUTE_PATH+"/"+Paths.STUDENTS_XML_PATH+"/Students_"+filiere.getDef()+niveau.getNumero()+".xml");
+            else
+                return new File(Paths.ABSOLUTE_PATH+Paths.XML_UTILS_PATH+"/"+Paths.XQUERY_FILES_DIRECTORY+"/getStudentWithoutNote.xquery");
+        }
+
+
+    }
+
     private String getOutputPath(String type) throws XQueryException{
         switch (type){
             case "student":
@@ -133,7 +150,7 @@ public class XQueryProcessor {
         try
         {
             Document document = DomUtils.getDocumentFrom(Paths.ABSOLUTE_PATH+"/"+Paths.STUDENTS_XML_PATH+"/Students_"+filiere.getDef()+niveau+".xml");
-            int numberOfStudents = document.getElementsByTagName("student").getLength();
+            int numberOfStudents = document.getElementsByTagName("Student").getLength();
             return 1+numberOfStudents/24;
         }
         catch (ParserConfigurationException | IOException | SAXException e)

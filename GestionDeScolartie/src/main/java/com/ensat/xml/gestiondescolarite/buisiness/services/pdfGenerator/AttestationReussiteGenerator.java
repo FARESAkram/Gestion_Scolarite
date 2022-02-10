@@ -14,7 +14,7 @@ import org.apache.poi.ss.formula.functions.T;
 
 import java.io.File;
 
-public class AttestationReussiteGenerator<T> extends PdfGenerator<T>{
+public class AttestationReussiteGenerator extends PdfGenerator{
 
     private String cin;
 

@@ -92,17 +92,26 @@ public class ASCIIart {
                 RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
         graphics.drawString(word, 2, 15);
 
-        String[] colors = {"\u001b[38;5;39m","\u001b[38;5;5m","\u001b[38;5;111m","\u001b[38;5;129m","\u001b[38;5;165m","\u001b[38;5;201m"};
+        String[] colors = {"\u001b[38;5;33m","\u001b[38;5;69m","\u001b[38;5;105m","\u001b[38;5;141m","\u001b[38;5;177m","\u001b[38;5;213m"};
+
+        System.out.println("#".repeat(153));
 
         for (int y = 0; y < 16; y++) {
             StringBuilder sb = new StringBuilder();
+            sb.append("#");
             for (int x = 0; x < 150; x++){
                 String color = colors[(x/25)];
                 sb.append(image.getRGB(x, y) == -16777216 ? " " : color+"#");
             }
-            if (sb.toString().trim().isEmpty()) continue;
-            System.out.println(sb);
+            if (sb.toString().trim().isEmpty() || sb.toString().trim().equals("#")){
+                continue;
+            }
+            else{
+                sb.append(RESET+" #");
+                System.out.println(sb);
+            }
         }
+        System.out.println("#".repeat(153));
     }
 
     public static void alertSuccess(String message){

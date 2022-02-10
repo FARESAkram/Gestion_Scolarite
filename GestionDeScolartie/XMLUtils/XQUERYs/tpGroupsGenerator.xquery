@@ -1,7 +1,7 @@
 declare variable $groupSizeString external;
 declare variable $filiere external;
 declare variable $niveau external;
-declare variable $allStudents := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//student;
+declare variable $allStudents := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student;
 declare variable $groupNumberString external;
 
 declare variable $groupNumber := xs:integer($groupNumberString);

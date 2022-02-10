@@ -9,10 +9,11 @@ import com.ensat.xml.gestiondescolarite.interlay.xsltProcessor.XsltException;
 import com.ensat.xml.gestiondescolarite.interlay.xsltProcessor.XsltProcessor;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
+import org.apache.poi.ss.formula.functions.T;
 
 import java.io.File;
 
-public class EmploiGenerator<T> extends PdfGenerator<T>{
+public class EmploiGenerator extends PdfGenerator{
 
     private int semaine;
 
@@ -23,6 +24,8 @@ public class EmploiGenerator<T> extends PdfGenerator<T>{
 
     @Override
     public void generatePDF() throws ServiceException {
+        File dir = new File(Paths.ABSOLUTE_PATH+Paths.EMPLOIS_XML_PATH);
+        dir.mkdirs();
         generateEmploiSemaine();
         File xmlfile = new File(Paths.ABSOLUTE_PATH+Paths.EMPLOIS_XML_PATH+"/Emploi.xml");
         File xsltfile = new File(Paths.ABSOLUTE_PATH+Paths.XML_UTILS_PATH+"/"+Paths.XSLT_FILES_DIRECTORY+"/emploi.xslt");

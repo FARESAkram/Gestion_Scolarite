@@ -11,10 +11,11 @@ import com.ensat.xml.gestiondescolarite.interlay.xsltProcessor.XsltException;
 import com.ensat.xml.gestiondescolarite.interlay.xsltProcessor.XsltProcessor;
 import com.ensat.xml.gestiondescolarite.utils.enums.Filiere;
 import com.ensat.xml.gestiondescolarite.utils.enums.Niveau;
+import org.apache.poi.ss.formula.functions.T;
 
 import java.io.File;
 
-public class ReleveNotesClasseGenerator<T> extends PdfGenerator<T>{
+public class ReleveNotesClasseGenerator extends PdfGenerator{
 
     public ReleveNotesClasseGenerator(Filiere filiere, Niveau niveau) {
         super(filiere, niveau);

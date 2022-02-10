@@ -50,6 +50,11 @@ public class HtmlAffichageGeneratorStudentBeforeRatt extends HtmlAffichageGenera
         Source xslDoc=new StreamSource(ABSOLUTE_PATH+STUDENTS_XSL_PATH+"/"+getRootName()+XSL_EXTENSION);
         Source xmlDoc=new StreamSource(ABSOLUTE_PATH+NOTES_XML_PATH+"/"+"Notes_"+filiere.getDef()+niveau+XML_EXTENSION);
         String outputFileName=ABSOLUTE_PATH+NOTES_HTML_PATH+"/"+getRootName()+HTML_EXTENSION;
+        try {
+           new FileOutputStream(ABSOLUTE_PATH+NOTES_XML_PATH+"/"+"Notes_"+filiere.getDef()+niveau+XML_EXTENSION);
+        }catch (FileNotFoundException e) {
+            throw new ServiceException("if faut générer les notes d'abord");
+        }
         try
         {
             File HtmlDir = new File(ABSOLUTE_PATH+NOTES_HTML_PATH);
@@ -58,10 +63,13 @@ public class HtmlAffichageGeneratorStudentBeforeRatt extends HtmlAffichageGenera
             Transformer trasform=tFactory.newTransformer(xslDoc);
             trasform.transform(xmlDoc, new StreamResult(htmlFile));
         }
-        catch (FileNotFoundException | TransformerException e)
+        catch (TransformerException e)
         {
-            e.printStackTrace();
             throw new ServiceException("Failed to generate HTML FILE");
+        }
+        catch(FileNotFoundException e)
+        {
+            throw new ServiceException("File not found ");
         }
     }
 

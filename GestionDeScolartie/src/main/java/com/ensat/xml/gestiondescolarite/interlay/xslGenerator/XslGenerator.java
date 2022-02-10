@@ -77,7 +77,6 @@ public abstract class XslGenerator<T>
         }
         catch (TransformerException | FileNotFoundException e)
         {
-            e.printStackTrace();
             throw new XslException("SERVER_ERROR: Failed to create file");
         }
     }

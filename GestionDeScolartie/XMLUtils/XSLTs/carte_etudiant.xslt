@@ -55,8 +55,8 @@
                         <fo:table-body>
                             <fo:table-cell column-number="1">
                                 <fo:block>
-                                    <fo:block><fo:external-graphic height="2cm" width="1.5cm" content-height="2cm"
-                                        content-width="1.5cm" src="url('Base_de_donnée/Students/images/DSC_0302.jpg')"/></fo:block>
+                                    <fo:block> <fo:external-graphic height="2cm" width="1.5cm" content-height="2cm"
+                                        content-width="1.5cm" src="url({photo})"/></fo:block>
                                 </fo:block>
                             </fo:table-cell>
                             <fo:table-cell display-align="center" column-number="2"  >

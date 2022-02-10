@@ -29,6 +29,7 @@ public abstract class XmlSerializer<T> implements Serializer<T>
     protected Niveau niveau;
     protected String outputFileName;
     protected Element root;
+    private String fullPath ;
 
     public XmlSerializer(Filiere filiere,Niveau niveau, Retriever<T> retriever) throws IOException
     {
@@ -63,7 +64,6 @@ public abstract class XmlSerializer<T> implements Serializer<T>
         {
             this.generateXMLFile();
             String ouputPath = getOutputPath()+"/"+ outputFileName + Paths.XML_EXTENSION;
-            System.out.println(ouputPath);
             File outputFile = new File(ouputPath);
             DomUtils.transformToXML(new FileOutputStream(outputFile), new DOMSource(document));
         }
@@ -71,6 +71,10 @@ public abstract class XmlSerializer<T> implements Serializer<T>
         {
             throw new IOException(SERVER_ERROR_MESSAGE);
         }
+    }
+    public String getFullPath()
+    {
+        return getOutputPath()+"/"+ outputFileName + Paths.XML_EXTENSION;
     }
     protected abstract void setRoot(List<T> data) throws IOException;
     protected abstract void generateXMLFile() throws IOException;

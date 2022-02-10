@@ -23,7 +23,6 @@ public class XsltProcessor {
             File pdfDir = new File("OUTPUT/PDFs");
             pdfDir.mkdirs();
             File pdfFile = new File(pdfDir, PDFName+".pdf");
-            System.out.println(pdfFile.getAbsolutePath());
             // configure fopFactory as desired
             final FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
             FOUserAgent foUserAgent = fopFactory.newFOUserAgent();

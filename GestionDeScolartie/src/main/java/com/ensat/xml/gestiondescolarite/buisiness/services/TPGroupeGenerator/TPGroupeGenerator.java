@@ -15,7 +15,7 @@ public class TPGroupeGenerator<T> implements GroupeGenerator<T> {
     private Filiere filiere;
     private Niveau niveau;
 
-    public TPGroupeGenerator(Filiere filiere, Niveau niveau, int i) {
+    public TPGroupeGenerator(Filiere filiere, Niveau niveau) {
         this.filiere = filiere;
         this.niveau = niveau;
     }
