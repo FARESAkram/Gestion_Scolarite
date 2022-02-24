@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Emlpoi Filiere="GINF" Niveau="2">
+    <semaine num="1">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="2">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="3">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="4">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="5">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="6">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30">
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30">
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TD" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30">
+                <module type="CM" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30">
+                <module type="TP" Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00">
+                <module type="CM" Module="GINF36" CIN="KTLM22V">
+                    <nom>Anglais professionnel</nom>
+                    <Professeur>BOURIGUI Fatima</Professeur>
+                    <salle>AMPHI 1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="7">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <CM Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <CM Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>Rahali Azzouzi Saida</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <CM Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <CM Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <CM Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </CM>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <TD Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </TD>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <TP Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </TP>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <TP Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </TP>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <CM Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <CM Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <CM Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <CM Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </CM>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <CM Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <TD Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </TD>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <CM Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </CM>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <TP Module="GINF31" CIN="J7J0K0S">
+                    <nom>XML &amp; applications</nom>
+                    <Professeur>LACHKAR Abdelmonaime</Professeur>
+                    <salle>Salle B19</salle>
+                </TP>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="8" />
+    <semaine num="9">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="EX" Module="GINF32" CIN="LXB61EG">
+                    <nom>Maitrise et optimisation des processus</nom>
+                    <Professeur>CHERAKOUI</Professeur>
+                    <Professeur>HARIS</Professeur>
+                    <salle>Salle A8</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="EX" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <Professeur>IBN EL AHRACHE</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="EX" Module="GINF34" CIN="BHAI8J4">
+                    <nom>Optimisation et qualité de base de données</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle A8</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="EX" Module="GINF35" CIN="WSJO0WH">
+                    <nom>administration systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <Professeur>EL JANATI EL IDRISSI</Professeur>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="EX" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <Professeur>EL JANATI EL IDRISSI</Professeur>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="14:00" to="15:30" >
+                <module type="EX" Module="GINF34" CIN="GFRNTRT">
+                    <nom>Administration et securité des Base de données</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <Professeur>CHERKAOUI</Professeur>
+                    <Professeur>SABIL</Professeur>
+                    <salle>Salle B20</salle>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi"/>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="10">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="11">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="12">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="13">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="14">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="15">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="16">
+        <jour nom="lundi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF32" CIN="GFRNTRT">
+                    <nom>Cycle de vie de logiciel et methodes agiles</nom>
+                    <Professeur>BADIR Hassan</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Modélisation orienté objet UML</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mardi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF34" CIN="BHAI8J4">
+                    <nom>GESTION DES DONNEES DISTRIBUEES</nom>
+                    <Professeur>FISSOUNE Rachida</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="TP" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B20</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="mercredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="TP" Module="GINF31" CIN="PWTEJQJ">
+                    <nom>Programmation orienté objet : Java</nom>
+                    <Professeur>El HADDAD Mohammed</Professeur>
+                    <salle>Salle B14</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF35" CIN="WSJO0WH">
+                    <nom>Programmation systèmes</nom>
+                    <Professeur>AMECHNOUE Khalid</Professeur>
+                    <salle>Salle B22</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="jeudi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machineL</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="11:00" to="12:30" >
+                <module type="CM" Module="GINF33" CIN="LXB61EG">
+                    <nom>Interaction homme-machine</nom>
+                    <Professeur>EL ALAMI HASSOUN Mohamed</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="14:00" to="15:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+            <hour from="16:00" to="17:30" >
+                <module type="CM" Module="GINF36" CIN="LMR1VVK">
+                    <nom>TECHNIQUE DE COMMUNICATION</nom>
+                    <Professeur>ZAAMOUMI Amal</Professeur>
+                    <salle>Salle C1</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="vendredi">
+            <hour from="9:00" to="10:30" >
+                <module type="CM" Module="GINF36" CIN="2YTVYAI">
+                    <nom>Espagnol 2</nom>
+                    <Professeur>LAAMARTI Latifa</Professeur>
+                    <salle>Salle C2</salle>
+                </module>
+            </hour>
+            <hour from="14:30" to="16:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+            <hour from="16:30" to="18:00" >
+                <module type="CM" Module="GINF32" CIN="LXB61EG">
+                    <nom>ASSURANCE CONTROLE QUALITE (ISO 9001)</nom>
+                    <Professeur>Saida RAHALI AZOUZI</Professeur>
+                    <salle>Salle B19</salle>
+                </module>
+            </hour>
+        </jour>
+        <jour nom="samedi"/>
+    </semaine>
+    <semaine num="17" />
+</Emlpoi>

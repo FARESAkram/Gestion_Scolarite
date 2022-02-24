@@ -1,0 +1,35 @@
+declare variable $CNE external;
+declare variable $filiere external;
+declare variable $niveau external;
+
+declare variable $firstName := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/firstName;
+declare variable $lastName := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/lastName;
+declare variable $DateofBirth := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/dateOfBirth;
+declare variable $ClasseName := doc(fn:concat("../../OUTPUT/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/className;
+declare variable $Phone := doc(fn:concat("../../OUTPUT","/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/phone;
+declare variable $Email := doc(fn:concat("../../OUTPUT","/Students/XMLFiles/","Students_",$filiere,$niveau,".xml"))//Student[@CNE=$CNE]/email;
+
+<student CNE="{$CNE}">
+    {$firstName}
+    {$lastName}
+    {$DateofBirth}
+    {$ClasseName}
+    {$Phone}
+    {$Email}
+    {
+        if (doc(fn:concat("../../OUTPUT/Notes/XMLFiles/","Notes_",$filiere,$niveau,".xml"))) then (
+            <notes>
+                <modules>
+                    {
+                        for $module in doc(fn:concat("../../OUTPUT/Notes/XMLFiles/","Notes_",$filiere,$niveau,".xml"))/Note//Modules//Module
+                        return <module code="{$module/@code}">{doc(fn:concat("../../OUTPUT/Notes/XMLFiles/", "Notes_", $filiere, $niveau, ".xml"))/Note/Modules//Module[@code=$module/@code]/Students/Student[@CNE = $CNE]/moyenne}</module>
+                    }
+                </modules>
+            </notes>
+        ) else (
+
+        )
+    }
+
+</student>
+
